@@ -42,6 +42,6 @@ CREATE TABLE IF NOT EXISTS AUH_FREQUENCIES (
 );
 
 
-COPY AUH_PRODUCTS FROM '/Users/Maxim/Documents/Drug_mapping_OHDSI/mapping Varenr.csv' WITH CSV HEADER;
-COPY AUH_DRUGLIST FROM '/Users/Maxim/Documents/Drug_mapping_OHDSI/GodkendteLagemidler.csv' WITH CSV HEADER;
-COPY AUH_FREQUENCIES FROM '/Users/Maxim/Documents/Drug_mapping_OHDSI/AUH Medication Varenr and frequencies.csv' WITH CSV HEADER;
+COPY AUH_PRODUCTS FROM '/Users/Maxim/Documents/Drug_mapping_OHDSI/data_files/mapping Varenr.csv' WITH CSV HEADER;
+COPY AUH_DRUGLIST FROM '/Users/Maxim/Documents/Drug_mapping_OHDSI/data_files/GodkendteLagemidler.csv' WITH CSV HEADER;
+COPY AUH_FREQUENCIES FROM '/Users/Maxim/Documents/Drug_mapping_OHDSI/data_files/AUH Medication Varenr and frequencies.csv' WITH CSV HEADER;

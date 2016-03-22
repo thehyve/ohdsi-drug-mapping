@@ -39,12 +39,3 @@ WHERE atc.vocabulary_id = 'ATC'
 	/* Only Standard Concepts that may be used as concept_id field. */
 	--  AND ingredient.standard_concept = 'S'
 ;
-
-/*
-Export database to file.
-COPY (
-	SELECT atc_concept_code, atc_concept_name, ingredient_concept_id, ingredient_concept_code as RxNorm_id, ingredient_concept_name
-	FROM _atc_to_ingredient_direct
-)
-TO '/Users/Maxim/Documents/Drug_mapping_OHDSI/export_atc_to_ingredient_direct.csv' WITH CSV HEADER;
-*/

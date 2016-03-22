@@ -1,0 +1,405 @@
+atc_concept_code,atc_concept_name,atc_concept_id,ingredient_concept_code,ingredient_concept_name,ingredient_concept_id,standard_concept,relationship_ids,n_relationships
+L03AX03,BCG vaccine,21603877,221050,"BCG, Live, Tice Strain",19086176,S,Inferred class of,1
+L03AX03,BCG vaccine,21603877,76469,"BCG, Live, Connaught Strain",19023835,S,Inferred class of,1
+B03AC06,FERRIC OXIDE DEXTRAN COMPLEXES,21601106,5992,Iron-Dextran Complex,1381661,S,Inferred class of,1
+B03AC07,FERRIC SODIUM GLUCONATE COMPLEX,21601107,261435,Sodium ferric gluconate complex,1399177,S,Inferred class of,1
+B02BC10,"FIBRINOGEN, HUMAN",21601058,831503,fibrinogen concentrate (human),19044986,S,Inferred class of,1
+N06DX02,Ginkgo folium,21604800,259471,Korean Ginseng Root Extract,19098769,S,Inferred class of,1
+N06DX02,Ginkgo folium,21604800,259265,Ginkgo Biloba Leaf Extract,19098505,S,Inferred class of,1
+N06DX02,Ginkgo folium,21604800,236809,Ginkgo biloba extract,1391889,S,Inferred class of,1
+C05CX03,Hippocastani semen,40255508,260020,HORSE CHESTNUT SEED,19099049,S,Inferred class of,1
+N06AX25,Hyperici herba,40252223,258326,ST. JOHN'S WORT EXTRACT,1398039,S,Inferred class of,1
+S01AX22,MOXIFLOXACIN,21603615,29998,ocriplasmin,42904298,S,Inferred class of,1
+G04CX01,Prunus africanae cortex,21602678,236466,Pygeum Africanum Preparation,1391440,S,Inferred class of,1
+B03AC02,SACCHARATED IRON OXIDE,21601103,473387,ferumoxytol,40163731,S,Inferred class of,1
+B03AC02,SACCHARATED IRON OXIDE,21601103,24909,"ferric oxide, saccharated",1395773,S,Inferred class of,1
+G04CX02,Sabalis serrulatae fructus,21602679,466570,pumpkin seed oil,19112533,S,Inferred class of,1
+G04CX02,Sabalis serrulatae fructus,21602679,236344,Saw palmetto extract,1391307,S,Inferred class of,1
+N05CM09,Valerianae radix,21604670,253206,valerian root extract,1397059,S,Inferred class of,1
+N02BA51,"acetylsalicylic acid, combinations excl. psycholeptics",21604320,1191,Aspirin,1112807,S,Inferred class of,1
+R03BB05,aclidinium bromide,43534847,1303098,aclidinium,42873639,S,Inferred class of,1
+J05AF08,adefovir dipivoxil,21603167,16521,adefovir,1729323,S,Inferred class of,1
+C01EB10,adenosine,21600371,318,Adenosine Triphosphate,19015230,S,Inferred class of,1
+B05AA01,albumin,21601139,828529,"Albumin Human, USP",1344143,S,Inferred class of,1
+B02AB02,alfa1 antitrypsin,21601040,991743,"alpha 1-proteinase inhibitor, human",40181679,,Inferred class of,1
+A02AB07,aluminium glycinate,21600062,23162,dihydroxyaluminum aminoacetate,19089733,S,Inferred class of,1
+B05BA01,amino acids,21601155,3024,Cysteine,19010955,S,Inferred class of,1
+V04CH30,aminohippuric acid,21605330,42837,p-Aminohippurate,19053177,S,Inferred class of,1
+L01XD04,aminolevulinic acid,21603768,155002,Aminolevulinate,924120,S,Inferred class of,1
+J02AA01,amphotericin B,21603074,236594,amphotericin B liposomal,19056402,S,Inferred class of,1
+J07AC01,anthrax antigen,21601281,404774,Anthrax Vaccine Adsorbed,19045672,S,Inferred class of,1
+S02AA30,"antiinfectives, combinations",21605163,168,Acetic Acid,929549,S,Inferred class of,1
+S02AA30,"antiinfectives, combinations",21605163,14997,4-cresyl acetate,920064,S,Inferred class of,1
+L04AA03,antilymphocyte immunoglobulin (horse),21603894,91601,Lymphocyte immune globulin,19061406,S,Inferred class of,1
+L04AA04,antithymocyte immunoglobulin (rabbit),21603895,107044,Rabbit anti-human T-lymphocyte globulin,19003472,S,Inferred class of,1
+A04AD12,aprepitant,21600505,754763,Fosaprepitant dimeglumine,19022131,S,Inferred class of,1
+N01BB58,"articaine, combinations",21604245,592464,Articaine,19080512,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,27291,hydroxypropylcellulose,19002257,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,9863,Sodium Chloride,967823,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,4910,Glycerin,961145,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,8610,Povidone,950056,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,2062,Carboxymethylcellulose,949279,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,8570,Polyvinyl Alcohol,948856,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,577312,"Mineral Oil, Light",978577,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,38998,tyloxapol,943191,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,34693,Propylene glycol,929128,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,6873,Methylcellulose,905371,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,27334,hypromellose,902251,S,Inferred class of,1
+S01XA20,artificial tears and other indifferent preparations,21605143,8560,Polysorbate 80,948760,S,Inferred class of,1
+A11GA01,ascorbic acid (vit C),21600837,142407,Calcium ascorbate,1319219,S,Inferred class of,1
+L01XX02,asparaginase,21603785,235996,Erwinia asparaginase,19055717,S,Inferred class of,1
+D10AX03,azelaic acid,21602314,618278,Azelate,986790,S,Inferred class of,1
+C09CA09,azilsartan medoxomil,40256408,1091643,azilsartan,40235485,S,Inferred class of,1
+A03BA04,belladonna total alkaloids,21600194,1359,Belladonna Alkaloids,1116109,S,Inferred class of,1
+J01CE08,benzathine benzylpenicillin,21602848,7980,Penicillin G,1728416,S,Inferred class of,1
+R02AA09,benzethonium,21603223,29829,methylbenzethonium,19009686,S,Inferred class of,1
+D08AJ08,benzethonium chloride,21602236,29829,methylbenzethonium,19009686,S,Inferred class of,1
+D08AJ08,benzethonium chloride,21602236,1390,Benzethonium,916802,S,Inferred class of,1
+D08AJ08,benzethonium chloride,21602236,1378,Benzalkonium,916460,S,Inferred class of,1
+D10AE51,"benzoyl peroxide, combinations",21602303,1418,Benzoyl Peroxide,918172,S,Inferred class of,1
+A09AB02,betaine hydrochloride,21600706,1512,Betaine,1520218,S,Inferred class of,1
+M03AX01,botulinum toxin,21604090,860189,onabotulinumtoxinA,40165651,S,Inferred class of,1
+M03AX01,botulinum toxin,21604090,860178,rimabotulinumtoxinB,40166020,S,Inferred class of,1
+M03AX01,botulinum toxin,21604090,1000104,incobotulinumtoxin A,40224763,S,Inferred class of,1
+M03AX01,botulinum toxin,21604090,860168,abobotulinumtoxinA,40165377,S,Inferred class of,1
+C01BD02,bretylium tosilate,21600271,19685,bretylium,19038998,S,Inferred class of,1
+N01BB01,bupivacaine,21604229,1191504,Bupivacaine liposome,40244151,S,Inferred class of,1
+N05CA03,butobarbital,21604610,477631,butabarbital,959174,S,Inferred class of,1
+B06AC01,"c1-inhibitor, plasma derived",40253603,809864,C1 esterase inhibitor (human),1333635,,Inferred class of,1
+A12AA12,calcium acetate anhydrous,21600871,214342,calcium acetate,951469,S,Inferred class of,1
+V03AF03,calcium folinate,21605271,6313,Leucovorin,1388796,S,Inferred class of,1
+V08AC10,calcium iopodate,21605408,5976,Ipodate,19081385,S,Inferred class of,1
+V03AF04,calcium levofolinate,21605272,877015,levoleucovorin,40168303,S,Inferred class of,1
+A12AA11,calcium pangamate,21600870,646818,pangamate,19091973,S,Inferred class of,1
+A12AA11,calcium pangamate,21600870,7886,pangamic acid,19026701,S,Inferred class of,1
+A11HA31,calcium pantothenate,21600851,62400,pantothenate,19088079,S,Inferred class of,1
+A11HA31,calcium pantothenate,21600851,7891,Pantothenic Acid,19026739,S,Inferred class of,1
+M02AB01,capsaicin,21604062,319780,Capsicum extract,915553,S,Inferred class of,1
+D02AE51,"carbamide, combinations",21601976,10169,Sulfacetamide,1036252,S,Inferred class of,1
+D02AE51,"carbamide, combinations",21601976,7892,Papain,926770,S,Inferred class of,1
+D02AE51,"carbamide, combinations",21601976,11002,Urea,906914,S,Inferred class of,1
+B05BA03,carbohydrates,21601157,4570,Fructose,956691,S,Inferred class of,1
+B05BA03,carbohydrates,21601157,4850,Glucose,1560524,S,Inferred class of,1
+J01CA05,carindacillin,21602824,2015,Carbenicillin,1740546,S,Inferred class of,1
+A06AB57,"cascara, combinations",21600552,91263,Aloe Extract,960900,S,Inferred class of,1
+J01DI02,ceftaroline fosamil,40255830,1040005,ceftaroline,40230597,S,Inferred class of,1
+C10AA06,cerivastatin,21601861,221072,Cerivastatin sodium,1586226,S,Inferred class of,1
+R02AA06,cetylpyridinium,21603222,6750,Menthol,901656,S,Inferred class of,1
+A05AA01,chenodeoxycholic acid,21600512,42588,Chenodeoxycholate,19052447,S,Inferred class of,1
+N05CC01,chloral hydrate,21604630,38574,trichloroacetaldehyde,742594,S,Inferred class of,1
+C10AB11,choline fenofibrate,40256457,8703,Fenofibrate,1551803,S,Inferred class of,1
+N02BA03,choline salicylate,21604307,2449,Choline,1195334,S,Inferred class of,1
+G03GA08,choriogonadotropin alfa,21602606,4986,Chorionic Gonadotropin,1563600,S,Inferred class of,1
+B02BD04,coagulation factor IX,21601064,617148,Coagulation Factor IX (Human),1386466,,Inferred class of,1
+B02BD07,coagulation factor XIII,21601067,1091605,"factor XIII, human",40236041,,Inferred class of,1
+A11CC05,colecalciferol,21600820,11253,Vitamin D,19009405,S,Inferred class of,1
+D03BA02,collagenase,21602000,898492,collagenase Clostridium histolyticum,40172153,S,Inferred class of,1
+A10AE30,combinations,21600741,235283,"Insulin, Prompt Zinc, Beef-Pork",19090229,S,Inferred class of,1
+A02AB10,combinations,21600063,89858,Aluminum carbonate,959420,S,Inferred class of,1
+A10AE30,combinations,21600741,235281,"Ultralente Insulin, Beef-Pork",19090221,S,Inferred class of,1
+A10AC30,combinations,21600727,314685,"Insulin, Protamine Zinc, Beef-Pork",19013926,S,Inferred class of,1
+A10AB30,combinations,21600721,235275,"insulin, regular, beef-pork",1590165,S,Inferred class of,1
+A12BA30,combinations,21600882,54993,potassium citrate,976545,S,Inferred class of,1
+J07BC20,combinations,21601340,26746,Hepatitis B Vaccine,501488,,Inferred class of,1
+A02AB10,combinations,21600063,18789,basic aluminum carbonate gel,934431,S,Inferred class of,1
+D01AE20,combinations,21601959,8723,Proflavine,19052317,S,Inferred class of,1
+J07BC20,combinations,21601340,5240,Hepatitis B Surface Antigens,568224,,Inferred class of,1
+B05BA10,combinations,21601159,27712,invert sugar,19003107,S,Inferred class of,1
+A10AC30,combinations,21600727,317598,"insulin beef-pork, isophane",1515106,,Inferred class of,1
+R01AX30,combinations,21603206,8516,Polyethylene Glycols,948515,S,Inferred class of,1
+A10AE30,combinations,21600741,314682,"Lente Insulin, Beef-Pork",1513843,S,Inferred class of,1
+J01CR50,combinations of penicillins,21602867,7980,Penicillin G,1728416,S,Inferred class of,1
+G03CA57,conjugated estrogens,21602523,618365,"synthetic conjugated estrogens, B",1586808,S,Inferred class of,1
+G03CA57,conjugated estrogens,21602523,253166,"synthetic conjugated estrogens, A",1596779,S,Inferred class of,1
+V04CD04,corticorelin,21605311,74671,corticorelin ovine,19020789,S,Inferred class of,1
+C01EB04,crataegus glycosides,21600366,155097,Hawthorn preparation,1324250,S,Inferred class of,1
+B03BA51,"cyanocobalamin, combinations",21601126,21373,cobamamide,19048026,S,Inferred class of,1
+B03BA51,"cyanocobalamin, combinations",21601126,5920,Intrinsic factor,1380472,S,Inferred class of,1
+B03BA51,"cyanocobalamin, combinations",21601126,29421,mecobalamin,19009025,S,Inferred class of,1
+L01BC01,cytarabine,21601435,968804,Cytarabine liposome,40175460,S,Inferred class of,1
+L01DB02,daunorubicin,21603733,214468,Daunorubicin Liposomal,19051599,S,Inferred class of,1
+B05AA05,dextran,21601142,214485,Dextran 1,19051646,S,Inferred class of,1
+B05AA05,dextran,21601142,3274,Dextran 70,1319156,S,Inferred class of,1
+B05AA05,dextran,21601142,3272,Dextran 40,19019122,S,Inferred class of,1
+B05AA05,dextran,21601142,3275,Dextran 75,19019193,S,Inferred class of,1
+V03AB24,digitalis antitoxin,21605249,203223,digoxin antibodies Fab fragments,19045317,S,Inferred class of,1
+C01AA03,digitalis leaves,21601243,91235,Digitalis preparation,19060903,S,Inferred class of,1
+A02AB04,dihydroxialumini sodium carbonate,21600059,23163,dihydroxyaluminum sodium carbonate,989727,S,Inferred class of,1
+M03AA04,dimethyltubocurarine,21604074,29950,metocurine,19009961,S,Inferred class of,1
+C05CA53,"diosmin, combinations",21601660,5281,Hesperidin,19068688,S,Inferred class of,1
+C05CA53,"diosmin, combinations",21601660,236614,BUTCHER'S BROOM Preparation,19056408,S,Inferred class of,1
+R06AA02,diphenhydramine,21603448,3444,Dimenhydrinate,928744,S,Inferred class of,1
+A06AA02,docusate sodium,21600535,82003,Docusate,941258,S,Inferred class of,1
+A06AG10,"docusate sodium, incl. combinations",21600590,82003,Docusate,941258,S,Inferred class of,1
+M03AC07,doxacurium chloride,21604084,23651,doxacurium,19091486,S,Inferred class of,1
+L01DB01,doxorubicin,21603732,214525,doxorubicin liposome,19051649,S,Inferred class of,1
+V03AB03,edetates,21605232,1368950,Edetate Calcium,43013616,S,Inferred class of,1
+V03AB03,edetates,21605232,132879,pentetate calcium trisodium,19015348,,Inferred class of,1
+V03AB03,edetates,21605232,3755,Edetic Acid,1741008,S,Inferred class of,1
+B05BB01,electrolytes,21601161,8591,Potassium Chloride,19049105,S,Inferred class of,1
+B05BB01,electrolytes,21601161,21032,chromous chloride,19050007,S,Inferred class of,1
+C09AA02,enalapril,21601786,3829,Enalaprilat,1342001,S,Inferred class of,1
+J07BA02,"encephalitis, Japanese, inactivated, whole virus",21601332,845525,"Japanese encephalitis virus vaccine, inactivated",19047598,S,Inferred class of,1
+R03AA01,epinephrine,21603251,66887,Racepinephrine,1300153,S,Inferred class of,1
+B02BD08,eptacog alfa (activated),21601068,4256,Factor VIIa,1352141,S,Inferred class of,1
+D10AF52,"erythromycin, combinations",21602310,4053,Erythromycin,1746940,S,Inferred class of,1
+B03XA01,erythropoietin,21601133,105694,Epoetin Alfa,1301125,S,Inferred class of,1
+G03CA07,estrone,21602520,33747,estropipate,1525278,S,Inferred class of,1
+C03CC01,etacrynic acid,21601526,62349,Ethacrynate,987406,S,Inferred class of,1
+N01BX01,ethyl chloride,21604249,124848,Dichlorotetrafluoroethane,914840,S,Inferred class of,1
+V08AD01,ethyl esters of iodised fatty acids,21605410,4125,Ethiodized Oil,19050016,S,Inferred class of,1
+M05BA01,etidronic acid,21604149,42682,Etidronate,1552929,S,Inferred class of,1
+G03AA01,etynodiol and ethinylestradiol,21602474,24591,ethynodiol,1595461,S,Inferred class of,1
+B02BD03,factor VIII inhibitor bypassing activity,21601063,314504,ANTI-INHIBITOR COAGULANT COMPLEX,19080406,S,Inferred class of,1
+B05BA02,fat emulsions,21601156,9515,Safflower Oil,19064089,S,Inferred class of,1
+B03AB09,ferric proteinsuccinylate,21601100,27825,iron succinyl milk protein complex,1303339,S,Inferred class of,1
+S02BA08,fluocinolone acetonide,21605170,25126,fluocinolone,996541,S,Inferred class of,1
+D07AC04,fluocinolone acetonide,21602123,25126,fluocinolone,996541,S,Inferred class of,1
+S01BA15,fluocinolone acetonide,21603632,25126,fluocinolone,996541,S,Inferred class of,1
+R01AD12,fluticasone furoate,21605053,41126,fluticasone,1149380,S,Inferred class of,1
+R03AC13,formoterol,21603267,304962,arformoterol,1111220,S,Inferred class of,1
+L02AA04,fosfestrol,21603818,3390,Diethylstilbestrol,1525866,S,Inferred class of,1
+D05BX51,"fumaric acid derivatives, combinations",21602053,70598,fumarate,19126510,S,Inferred class of,1
+D11AX02,gamolenic acid,21602343,618453,gamma-Linolenate,19086939,S,Inferred class of,1
+L01XC05,gemtuzumab,21603759,1294580,Gemtuzumab ozogamicin,42799711,S,Inferred class of,1
+L03AX13,glatiramer acetate,21603886,214582,Glatiramer,751889,S,Inferred class of,1
+A09AB01,glutamic acid hydrochloride,21600705,70602,Glutamate,911486,S,Inferred class of,1
+A16AX09,glycerol phenylbutyrate,43534758,81647,phenylbutyrate,1539954,S,Inferred class of,1
+B06AB01,hematin,21601236,5175,Hemin,19067303,S,Inferred class of,1
+J07AG53,"hemophilus influenzae B, combinations with meningococcus C, conjugated",21601294,798444,Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine,530007,S,Inferred class of,1
+J07AG51,"hemophilus influenzae B, combinations with toxoids",21601292,798279,"Haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine",529118,S,Inferred class of,1
+B01AB01,heparin,21600973,235473,"heparin, porcine",19055137,S,Inferred class of,1
+B01AB01,heparin,21600973,236026,"heparin, bovine",19055720,S,Inferred class of,1
+J07BC02,"hepatitis A, inactivated, whole virus",21601339,253174,"Hepatitis A Vaccine, Inactivated",596876,S,Inferred class of,1
+J07BC02,"hepatitis A, inactivated, whole virus",21601339,798361,Hepatitis A Vaccine (Inactivated) Strain HM175,529660,S,Inferred class of,1
+J07BC01,"hepatitis B, purified antigen",21601338,798456,"Hepatitis B Surface Antigen (Australia antigen) MSD, Vaccine",19030114,,Inferred class of,1
+J07BC01,"hepatitis B, purified antigen",21601338,26746,Hepatitis B Vaccine,501488,,Inferred class of,1
+J07BC01,"hepatitis B, purified antigen",21601338,797752,Hepatitis B Surface Antigen Vaccine,528323,S,Inferred class of,1
+J01CA18,hetacillin,21602837,733,Ampicillin,1717327,S,Inferred class of,1
+M03AC05,hexafluronium,21604082,26826,hexafluorenium,19001540,S,Inferred class of,1
+V04CG03,histamine phosphate,21605321,5333,Histamine,19069019,S,Inferred class of,1
+S01KA01,hyaluronic acid,21605114,62372,hyaluronate,787787,S,Inferred class of,1
+M09AX01,hyaluronic acid,21604179,62372,hyaluronate,787787,S,Inferred class of,1
+D03AX05,hyaluronic acid,21601993,62372,hyaluronate,787787,S,Inferred class of,1
+M09AX01,hyaluronic acid,21604179,284637,HYLAN G-F 20,705219,S,Inferred class of,1
+M09AX01,hyaluronic acid,21604179,258347,Hyaluronan,798336,S,Inferred class of,1
+B06AA03,hyaluronidase,21601229,630933,"Hyaluronidase, Human",19088713,S,Inferred class of,1
+D07AB11,hydrocortisone buteprate,21602115,5492,Hydrocortisone,975125,S,Inferred class of,1
+D07AB02,hydrocortisone butyrate,21602106,5492,Hydrocortisone,975125,S,Inferred class of,1
+B05AA07,hydroxyethylstarch,21601144,1363352,hydroxyethyl starch 130-0.4,43012293,S,Inferred class of,1
+B05AA07,hydroxyethylstarch,21601144,816249,Pentastarch,40161354,S,Inferred class of,1
+M05BA06,ibandronic acid,21604154,115264,Ibandronate,1512480,S,Inferred class of,1
+M01AE51,"ibuprofen, combinations",21603984,5640,Ibuprofen,1177480,S,Inferred class of,1
+J01DH51,imipenem and enzyme inhibitor,21602925,5690,Imipenem,1778262,S,Inferred class of,1
+J06BA01,"immunoglobulins, normal human, for extravascular adm.",21601256,5666,Immunoglobulin G,19117912,S,Inferred class of,1
+J06BA01,"immunoglobulins, normal human, for extravascular adm.",21601256,617615,Immune Globulin Subcutaneous (Human),586530,,Inferred class of,1
+J06BA01,"immunoglobulins, normal human, for extravascular adm.",21601256,797550,Immune Globulin (Human),528263,,Inferred class of,1
+J06BA01,"immunoglobulins, normal human, for extravascular adm.",21601256,42386,"Immunoglobulins, Intravenous",551749,,Inferred class of,1
+J06BA02,"immunoglobulins, normal human, for intravascular adm.",21601257,5666,Immunoglobulin G,19117912,S,Inferred class of,1
+J06BA02,"immunoglobulins, normal human, for intravascular adm.",21601257,42386,"Immunoglobulins, Intravenous",551749,,Inferred class of,1
+J07BB02,"influenza, inactivated, split virus or surface antigen",21601335,864701,influenza A-California-7-2009-(H1N1)v-like virus vaccine,40166605,S,Inferred class of,1
+J07BB03,"influenza, live attenuated",21601336,864701,influenza A-California-7-2009-(H1N1)v-like virus vaccine,40166605,S,Inferred class of,1
+V01AA07,insects,21605221,253189,Mixed vespid venom,19097029,S,Inferred class of,1
+V01AA07,insects,21605221,124427,Honey bee venom,514834,S,Inferred class of,1
+V01AA07,insects,21605221,285170,yellowjacket venom protein,19006951,S,Inferred class of,1
+V01AA07,insects,21605221,124428,White faced hornet venom,19014846,,Inferred class of,1
+V01AA07,insects,21605221,1297537,yellow hornet venom protein,42801309,S,Inferred class of,1
+V01AA07,insects,21605221,1297525,bald-faced hornet venom protein,42801272,S,Inferred class of,1
+V01AA07,insects,21605221,854041,yellow hornet hymenoptera venom protein,40162174,,Inferred class of,1
+V01AA07,insects,21605221,854163,European honey bee venom protein,40162005,S,Inferred class of,1
+V01AA07,insects,21605221,235614,HYMENOPTERA ALLERGENIC EXTRACT,19055259,S,Inferred class of,1
+V01AA07,insects,21605221,260051,WASP VENOM PROTEIN,19099126,S,Inferred class of,1
+V01AA07,insects,21605221,324054,MIXED VESPID VENOM PROTEIN,19082871,S,Inferred class of,1
+A10AE02,insulin (beef),21600737,235280,"Lente Insulin, Beef",19090204,S,Inferred class of,1
+A10AC02,insulin (beef),21600724,235278,"insulin, protamine zinc, beef",19090180,S,Inferred class of,1
+A10AC02,insulin (beef),21600724,317235,"insulin beef, isophane",19014950,,Inferred class of,1
+A10AB02,insulin (beef),21600716,314686,"Insulin, Regular, Beef",19013951,S,Inferred class of,1
+A10AE01,insulin (human),21600736,221110,"Ultralente Insulin, Human",1586369,S,Inferred class of,1
+A10AF01,insulin (human),21600743,631657,"insulin human, rDNA origin",1588986,S,Inferred class of,1
+A10AE01,insulin (human),21600736,314683,"Insulin, Zinc, Human",1513849,S,Inferred class of,1
+A10AC01,insulin (human),21600723,253181,"insulin human, isophane",1596914,,Inferred class of,1
+A10AB03,insulin (pork),21600717,221109,"Insulin, Regular, Pork",1586346,S,Inferred class of,1
+A10AC03,insulin (pork),21600725,221108,"insulin pork, isophane",1586326,,Inferred class of,1
+A10AD03,insulin (pork),21600731,221108,"insulin pork, isophane",1586326,,Inferred class of,1
+A10AE03,insulin (pork),21600738,93108,"Insulin, Zinc, Pork",1562586,S,Inferred class of,1
+A10AB05,insulin aspart,21600719,51428,"Insulin, Aspart, Human",1567198,S,Inferred class of,1
+L03AB01,interferon alfa natural,21603858,612937,Interferon Alfa-n3,1385645,S,Inferred class of,1
+L03AB05,interferon alfa-2b,21603862,5879,Interferon Alfa-2a,1379969,S,Inferred class of,1
+L03AB03,interferon gamma,21603860,5882,Interferon gamma-1b,1380191,S,Inferred class of,1
+V04CH01,inulin and other polyfructosans,21605326,5924,Inulin,980478,S,Inferred class of,1
+R03BB01,ipratropium bromide,21603293,7213,Ipratropium,1112921,S,Inferred class of,1
+R01AX03,ipratropium bromide,21603199,7213,Ipratropium,1112921,S,Inferred class of,1
+C01DA14,isosorbide mononitrate,21600324,6057,Isosorbide,1383815,S,Inferred class of,1
+A06AC01,ispaghula (psylla seeds),21600555,82088,Plantago Seed,19132965,S,Inferred class of,1
+A06AC01,ispaghula (psylla seeds),21600555,8928,Psyllium,957797,S,Inferred class of,1
+A07FA01,lactic acid producing organisms,21600669,602811,Lactobacillus rhamnosus GG,19122437,S,Inferred class of,1
+A07FA01,lactic acid producing organisms,21600669,285148,Bifidobacterium bifidum,19006764,S,Inferred class of,1
+A07FA01,lactic acid producing organisms,21600669,100213,Bifidobacterium Infantis,19136097,S,Inferred class of,1
+A07FA01,lactic acid producing organisms,21600669,6204,Lactobacillus,987128,S,Inferred class of,1
+A07FA01,lactic acid producing organisms,21600669,6205,Lactobacillus acidophilus,987153,S,Inferred class of,1
+N07BC03,levacetylmethadol,21604828,6814,Methadyl Acetate,19003959,S,Inferred class of,1
+H03AA01,levothyroxine sodium,21602754,10582,levothyroxine,1501700,S,Inferred class of,1
+P03AB02,lindane,21604978,6387,Lidocaine,989878,S,Inferred class of,1
+A06AC05,linseed,21600558,318224,Flaxseed extract,1315342,S,Inferred class of,1
+H03AA02,liothyronine sodium,21602755,10814,Triiodothyronine,1505346,S,Inferred class of,1
+N05AN01,lithium,21604556,52105,lithium citrate,767410,S,Inferred class of,1
+N05AN01,lithium,21604556,42351,Lithium Carbonate,751246,S,Inferred class of,1
+S01BA14,loteprednol,21603631,52177,loteprednol etabonate,967562,S,Inferred class of,1
+A06AD15,macrogol,21600575,221147,POLYETHYLENE GLYCOL 3350,986417,S,Inferred class of,1
+A12CC30,magnesium (different salts in combination),21600903,142131,Magnesium Aspartate,19019131,S,Inferred class of,1
+A12CC30,magnesium (different salts in combination),21600903,1167,Aspartate Magnesium Hydrochloride,19011092,S,Inferred class of,1
+A12CC30,magnesium (different salts in combination),21600903,486895,magnesium amino acid chelate,19060896,S,Inferred class of,1
+A12CC05,magnesium aspartate,21600897,1167,Aspartate Magnesium Hydrochloride,19011092,S,Inferred class of,1
+A02AA05,magnesium silicate,21600053,29170,magnesium trisilicate,908730,S,Inferred class of,1
+J07BD52,"measles, combinations with mumps and rubella, live attenuated",21601344,798372,"Mumps Virus Vaccine Live, Jeryl Lynn Strain",529713,S,Inferred class of,1
+J07BD01,"measles, live attenuated",21601342,6669,Measles Vaccine,594249,S,Inferred class of,1
+M01AG04,meclofenamic acid,21603990,588003,Meclofenamate,1180182,S,Inferred class of,1
+A07BA51,"medicinal charcoal, combinations",21600630,272,Activated Charcoal,1701928,S,Inferred class of,1
+M01AG01,mefenamic acid,21603987,257844,Mefenamate,1197736,S,Inferred class of,1
+N05CH01,melatonin,21604659,259421,KAVA ROOT,1398693,S,Inferred class of,1
+N05CH01,melatonin,21604659,38022,theanine,19100575,S,Inferred class of,1
+B02BA02,menadione,21601046,29491,menadiol,19009057,S,Inferred class of,1
+J07AH04,"meningococcus A,C,Y,W-135, tetravalent purified polysaccharides antigen",21601299,29501,meningococcal group A polysaccharide,509079,S,Inferred class of,1
+D08AK04,mercurochrome,21602244,6762,Merbromin,1703026,S,Inferred class of,1
+J01XX05,methenamine,21603065,36122,phenyl salicylate,937712,S,Inferred class of,1
+C02AB01,methyldopa (levorotatory),21600395,6877,Methyldopate,1305496,S,Inferred class of,1
+A06AH01,methylnaltrexone bromide,21600594,29899,methylnaltrexone,909841,S,Inferred class of,1
+D01AE02,methylrosaniline,21601941,4778,Gentian Violet,959362,S,Inferred class of,1
+G01AX09,methylrosaniline,21602416,4778,Gentian Violet,959362,S,Inferred class of,1
+J01CF03,meticillin,21602855,267073,Methicillin Sodium,19001323,S,Inferred class of,1
+M03AC10,mivacurium chloride,21604087,30077,mivacurium,19010459,S,Inferred class of,1
+N06BA07,modafinil,21604760,641465,armodafinil,19090984,S,Inferred class of,1
+C05BB01,monoethanolamine oleate,21601643,24460,ethanolamine oleate,19095285,S,Inferred class of,1
+N02AA01,morphine,21604256,477468,Morphine Liposomal,19112635,S,Inferred class of,1
+A09AA02,"multienzymes (lipase, protease etc.)",21600701,7880,Pancreatin,926487,S,Inferred class of,1
+A11AA03,"multivitamins and other minerals, incl. combinations",21600805,47628,tricalcium phosphate,19058978,S,Inferred class of,1
+L04AA06,mycophenolic acid,21603896,68149,mycophenolate mofetil,19003999,S,Inferred class of,1
+J01MB02,nalidixic acid,21603029,618425,Nalidixate,986864,S,Inferred class of,1
+S01GA51,"naphazoline, combinations",21605079,7247,Naphazoline,914533,S,Inferred class of,1
+R07AA02,natural phospholipids,21603534,46967,beractant,19057932,S,Inferred class of,1
+R07AA02,natural phospholipids,21603534,232539,calfactant,19089891,S,Inferred class of,1
+R07AA02,natural phospholipids,21603534,236381,Poractant alfa,19091377,S,Inferred class of,1
+R07AX01,nitric oxide,21603549,7456,Nitrogen,19020477,S,Inferred class of,1
+B02BD09,nonacog alfa,21601069,4249,factor IX,1351935,S,Inferred class of,1
+C09CA08,olmesartan medoxomil,21601831,321064,olmesartan,40226742,S,Inferred class of,1
+C10AX06,omega-3-triglycerides incl. other esters and acids,21601893,484348,Omega-3 Acid Ethyl Esters (USP),1560305,S,Inferred class of,1
+C10AX06,omega-3-triglycerides incl. other esters and acids,21601893,968631,Chia Seed Oil,40175609,S,Inferred class of,1
+C10AX06,omega-3-triglycerides incl. other esters and acids,21601893,880350,krill oil,40168296,S,Inferred class of,1
+C10AX06,omega-3-triglycerides incl. other esters and acids,21601893,73,Docosahexaenoate,19016670,S,Inferred class of,1
+A07DA02,opium,21600645,32926,paregoric,922024,S,Inferred class of,1
+R05FA02,opium derivatives and expectorants,21603439,235273,Calcium iodide,19090171,S,Inferred class of,1
+N04AB02,orphenadrine (chloride),21604458,7715,Orphenadrine,724394,S,Inferred class of,1
+M03BC01,orphenadrine (citrate),21604112,7715,Orphenadrine,724394,S,Inferred class of,1
+B05AA02,other plasma protein fractions,21601140,33835,plasma protein fraction,19025693,S,Inferred class of,1
+C05AX03,"other preparations, combinations",21601631,89821,Witch Hazel,959196,S,Inferred class of,1
+C05AX03,"other preparations, combinations",21601631,91472,Shark liver oil,961304,S,Inferred class of,1
+C05AX03,"other preparations, combinations",21601631,21389,cocoa butter,951112,S,Inferred class of,1
+C05AX03,"other preparations, combinations",21601631,8163,Phenylephrine,1135766,S,Inferred class of,1
+D11AC30,others,21602333,39952,zinc pyrithione,944360,S,Inferred class of,1
+D11AC30,others,21602333,9525,Salicylic Acid,964407,S,Inferred class of,1
+D11AC30,others,21602333,20875,chloroxine,949453,S,Inferred class of,1
+G01AC30,oxyquinoline,21602383,1362927,dodecyl sulfate,43012263,S,Inferred class of,1
+G01AC30,oxyquinoline,21602383,9871,Sodium Dodecyl Sulfate,19068999,,Inferred class of,1
+M05BA03,pamidronic acid,21604151,11473,pamidronate,1511646,S,Inferred class of,1
+N02BE51,"paracetamol, combinations excl. psycholeptics",21604348,54365,pamabrom,1172206,S,Inferred class of,1
+C01DA05,pentaerithrityl tetranitrate,21600319,33055,pentaerythritol,19022446,S,Inferred class of,1
+P01CX01,pentamidine isethionate,21604924,7994,Pentamidine,1730370,S,Inferred class of,1
+G04BX15,pentosan polysulfate sodium,40254621,155046,Pentosan Polysulfate,924151,S,Inferred class of,1
+A06AB04,phenolphthalein,21600541,314784,Yellow phenolphthalein,914085,S,Inferred class of,1
+B01AA04,phenprocoumon,21600966,5556,Hymecromone,19077421,S,Inferred class of,1
+M03AC06,pipecuronium bromide,21604083,33742,Pipecuronium,19025281,S,Inferred class of,1
+G02BA03,plastic IUD with progestogen,21602449,6373,Levonorgestrel,1589505,S,Inferred class of,1
+D06BB04,podophyllotoxin,21602086,8462,podophyllin,947651,S,Inferred class of,1
+V03AE01,polystyrene sulfonate,21605264,56512,Sodium polystyrene sulfonate,19078126,S,Inferred class of,1
+L01XD01,porfimer sodium,21603766,23066,Dihematoporphyrin Ether,19089602,S,Inferred class of,1
+A12BA51,"potassium chloride, combinations",21600883,8591,Potassium Chloride,19049105,S,Inferred class of,1
+A12BA51,"potassium chloride, combinations",21600883,8589,Potassium Aspartate,19049059,S,Inferred class of,1
+N05BA05,potassium clorazepate,21604570,2353,clorazepate,790253,S,Inferred class of,1
+A12BA04,potassium hydrogencarbonate,21600880,54993,potassium citrate,976545,S,Inferred class of,1
+A12BA04,potassium hydrogencarbonate,21600880,34296,potassium bicarbonate,19027080,S,Inferred class of,1
+J01CE09,procaine benzylpenicillin,21602849,7980,Penicillin G,1728416,S,Inferred class of,1
+P01BB51,"proguanil, combinations",21604895,2382,Proguanil,1792429,S,Inferred class of,1
+N01AX10,propofol,21604214,828682,fospropofol,19044273,S,Inferred class of,1
+V03AB14,protamine,21605239,8825,Protamine Sulfate (USP),19054242,S,Inferred class of,1
+B01AD12,protein C,21601018,723868,"protein C, human",19014221,,Inferred class of,1
+V03AB31,prussian blue,21605254,705707,Insoluble berlin blue stain,19011393,S,Inferred class of,1
+R01BA52,"pseudoephedrine, combinations",21603213,19959,acrivastine,1140123,S,Inferred class of,1
+P03AC01,pyrethrum,21604981,8991,Pyrethrins,959665,S,Inferred class of,1
+A11HA06,pyridoxal phosphate,21600847,9002,Pyridoxal,19059817,S,Inferred class of,1
+A11HA02,pyridoxine (vit B6),21600843,42954,Vitamin B6,1353228,S,Inferred class of,1
+J06BB05,rabies immunoglobulin,21601263,830471,"rabies immune globulin, (human) vaccine",544509,,Inferred class of,1
+J06AA06,rabies serum,21601253,830471,"rabies immune globulin, (human) vaccine",544509,,Inferred class of,1
+J07BG01,"rabies, inactivated, whole virus",21601354,830457,rabies virus vaccine flury-lep strain,544411,S,Inferred class of,1
+J07BG01,"rabies, inactivated, whole virus",21601354,830464,"rabies virus vaccine wistar strain PM-1503-3M (Human), Inactivated",544505,S,Inferred class of,1
+V10XX03,radium (223Ra) dichloride,43534873,1424174,RADIUM CHLORIDE RA-223,43526934,S,Inferred class of,1
+A02BA07,ranitidine bismuth citrate,21600088,9143,Ranitidine,961047,S,Inferred class of,1
+C02AA04,"rauwolfia alkaloids, whole root",21600387,78678,Rauwolfia preparation,1326378,S,Inferred class of,1
+C02LA01,reserpine and diuretics,21600453,19008,benzthiazide,19036731,S,Inferred class of,1
+A11HA04,riboflavin (vit B2),21600845,4509,Flavin Mononucleotide,19056500,S,Inferred class of,1
+M05BA07,risedronic acid,21604155,73056,Risedronate,1516800,S,Inferred class of,1
+M03AC09,rocuronium bromide,21604086,68139,Rocuronium,19003953,S,Inferred class of,1
+S01JA02,rose bengal sodium,21605109,9471,Rose Bengal,19063871,S,Inferred class of,1
+J07BH01,"rota virus, live attenuated",21601356,805573,"Rotavirus Vaccine, Live Attenuated, G1P[8] Human 89-12 strain",19032599,S,Inferred class of,1
+J07BJ01,"rubella, live attenuated",21601359,762817,Rubella Virus Vaccine Live (Wistar RA 27-3 Strain),523212,S,Inferred class of,1
+B03AB02,saccharated iron oxide,21601093,105669,Polysaccharide iron complex,1300751,S,Inferred class of,1
+A07FA02,saccharomyces boulardii,21600670,602738,Saccharomyces boulardii lyo,982105,S,Inferred class of,1
+R03AC02,salbutamol,21603256,237159,Levalbuterol,1192218,S,Inferred class of,1
+V10BX02,samarium (153Sm) lexidronam,21605583,1910,calcium hydroxide,1337191,S,Inferred class of,1
+V04CK01,secretin,21605335,606396,Human Secretin,19084212,S,Inferred class of,1
+D11AC03,selenium compounds,21602329,36345,selenium sulfide,938061,S,Inferred class of,1
+A06AB06,senna glycosides,21600543,237929,Senna Leaves,992409,S,Inferred class of,1
+A03AX13,silicones,21600187,9796,Simethicone,966991,S,Inferred class of,1
+J06AA03,snake venom antiserum,21601250,89887,Latrodectus mactans antivenin,19059518,S,Inferred class of,1
+J06AA03,snake venom antiserum,21601250,979384,North American coral snake antivenin,40187702,S,Inferred class of,1
+J04AA02,sodium aminosalicylate,21603093,113374,aminosalicylate,19010337,S,Inferred class of,1
+J04AA02,sodium aminosalicylate,21603093,7833,aminosalicylic acid,1726228,S,Inferred class of,1
+M01CB01,sodium aurothiomalate,21604025,42547,Aurothiomalate,1152134,S,Inferred class of,1
+S01XA03,"sodium chloride, hypertonic",21605129,9863,Sodium Chloride,967823,S,Inferred class of,1
+A01AA51,"sodium fluoride, combinations",21600010,11377,Xylitol,19010496,S,Inferred class of,1
+A01AA51,"sodium fluoride, combinations",21600010,34316,potassium nitrate,927322,S,Inferred class of,1
+B05XA14,sodium glycerophosphate,21601209,1423803,GLYCERYL PHOSPHATE,43526717,S,Inferred class of,1
+V08AC08,sodium iopodate,21605406,5976,Ipodate,19081385,S,Inferred class of,1
+A16AX03,sodium phenylbutyrate,21600954,81647,phenylbutyrate,1539954,S,Inferred class of,1
+A06AD17,sodium phosphate,21600577,236719,"Sodium Phosphate, Dibasic",991710,S,Inferred class of,1
+N02BA04,sodium salicylate,21604308,9525,Salicylic Acid,964407,S,Inferred class of,1
+A06AD18,sorbitol,21600578,5924,Inulin,980478,S,Inferred class of,1
+D10AB02,sulfur,21602289,10169,Sulfacetamide,1036252,S,Inferred class of,1
+D04AB06,tetracaine,21602025,19861,butamben,939726,S,Inferred class of,1
+A16AX01,thioctic acid,21600952,618060,Thioctate,1386670,S,Inferred class of,1
+V03AB06,thiosulfate,21605235,36726,sodium thiosulfate,940004,S,Inferred class of,1
+H03AA05,thyroid gland preparations,21602758,10572,thyroid (USP),1501309,S,Inferred class of,1
+H03AA05,thyroid gland preparations,21602758,10565,Thyroglobulin,19000732,S,Inferred class of,1
+V04CJ01,thyrotropin,21605332,4952,thyrotropin alfa (USP),19063297,S,Inferred class of,1
+H01AB01,thyrotropin alfa,21602688,10579,Thyrotropin,19007721,S,Inferred class of,1
+R03BB04,tiotropium bromide,21603296,69120,tiotropium,1106776,S,Inferred class of,1
+A11HA08,tocofersolan,21600849,159151,tocophersolan,19018322,S,Inferred class of,1
+A11HA03,tocopherol (vit E),21600844,72385,Wheat germ oil,19014164,S,Inferred class of,1
+D10AD51,"tretinoin, combinations",21602298,10753,Tretinoin,903643,S,Inferred class of,1
+A06AC07,triticum (wheat fibre),21600560,637366,WHEAT DEXTRIN,40171826,S,Inferred class of,1
+J01MA13,trovafloxacin,21603020,141440,alatrofloxacin,19018154,S,Inferred class of,1
+V04CF01,tuberculin,21605317,8948,Purified Protein Derivative of Tuberculin,19058274,S,Inferred class of,1
+J07AP01,"typhoid, oral, live attenuated",21601322,762595,Typhoid Vaccine Live Ty21a,523202,S,Inferred class of,1
+J07AP03,"typhoid, purified polysaccharide antigen",21601324,807219,"Typhoid Vi Polysaccharide Vaccine, S typhi Ty2 strain",532881,S,Inferred class of,1
+V08AC09,tyropanoic acid,21605407,10960,Tyropanoate,19006659,S,Inferred class of,1
+C01EB09,ubidecarenone,21600370,232540,red yeast rice,1389885,S,Inferred class of,1
+C01EB09,ubidecarenone,21600370,39085,ubiquinol,19101786,S,Inferred class of,1
+C01EB09,ubidecarenone,21600370,10975,Ubiquinone,1306837,S,Inferred class of,1
+D01AE04,undecylenic acid,21601943,314881,Undecylenate,914244,S,Inferred class of,1
+S01EE02,unoprostone,21603711,135313,isopropyl unoprostone,915829,S,Inferred class of,1
+A05AA02,ursodeoxycholic acid,21600513,62427,Ursodeoxycholate,988095,S,Inferred class of,1
+N03AG01,valproic acid,21604422,40254,Valproate,745466,S,Inferred class of,1
+J07BK01,"varicella, live attenuated",21601362,805486,Varicella Virus Vaccine Live (Oka-Merck) strain,532454,S,Inferred class of,1
+J07BK01,"varicella, live attenuated",21601362,1292422,Varicella-Zoster Virus Vaccine Live (Oka-Merck) strain,42800027,S,Inferred class of,1
+J07BK01,"varicella, live attenuated",21601362,39384,Chickenpox Vaccine,543287,S,Inferred class of,1
+A01AD11,various,21600045,82242,chlorophyllin copper complex,942494,S,Inferred class of,1
+R01AX10,various,21603205,9863,Sodium Chloride,967823,S,Inferred class of,1
+A01AD11,various,21600045,33290,phenol,923540,S,Inferred class of,1
+A01AD11,various,21600045,1426,Benzyl Alcohol,919681,S,Inferred class of,1
+A01AD11,various,21600045,1399,Benzocaine,917006,S,Inferred class of,1
+A01AB11,various,21600021,8611,Povidone-Iodine,1750087,S,Inferred class of,1
+A01AD11,various,21600045,11002,Urea,906914,S,Inferred class of,1
+A01AD11,various,21600045,4910,Glycerin,961145,S,Inferred class of,1
+A01AD11,various,21600045,47686,carbamide peroxide,958999,S,Inferred class of,1
+J07BL01,"yellow fever, live attenuated",21601365,804187,"Yellow-Fever Virus Vaccine, 17D-204 strain",532274,S,Inferred class of,1
+S01AX03,zinc compounds,21603597,39954,Zinc Sulfate,19044522,S,Inferred class of,1
+C05AX04,zinc preparations,21601632,11423,Zinc Oxide,911064,S,Inferred class of,1
