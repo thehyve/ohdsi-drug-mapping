@@ -24,4 +24,4 @@ SELECT char_length(atckode) as "Length ATC code", COUNT(*)
 FROM auh_druglist
 GROUP BY char_length(atckode)
 ORDER BY char_length(atckode);
-/* Conclusion: */
+/* Conclusion: see mail to Marinel 21-03-2015*/
