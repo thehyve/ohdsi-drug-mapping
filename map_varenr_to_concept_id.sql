@@ -1,14 +1,14 @@
 SELECT
     auh_frequencies.vnr,
-    pname as "Danish name",
-    substring( aktivesubstanser from 0 for 40 ) as "Active Substance",
+    pname as "danish_name",
+    aktivesubstanser /* substring( aktivesubstanser from 0 for 40 )*/ as "active_substance",
     frequency,
     auh_products.drugid,
     ATCkode as ATCcode,
     ingredient_concept_code as RxNorm_id,
     ingredient_concept_id,
     a_t_i_d.ingredient_concept_name
--- INTO _varenr_to_concept_id
+-- INTO _varenr_to_concept_id_2
 FROM auh_frequencies
 LEFT JOIN auh_products ON auh_frequencies.vnr = auh_products.vnr
 LEFT JOIN auh_druglist ON auh_products.DRUGID = auh_druglist.DRUGID

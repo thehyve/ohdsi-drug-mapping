@@ -14,7 +14,7 @@ Export Varenr to RxNorm mapping
 */
 COPY (
     SELECT *
-    FROM _varenr_to_concept_id
+    FROM _varenr_to_concept_id_2
     ORDER BY "Danish name"
 )
 TO '/Users/Maxim/Documents/Drug_mapping_OHDSI/exports/varenr_to_ingredient_concept_id.csv' WITH CSV HEADER;
