@@ -4,17 +4,17 @@
 	 This increases the mapping from 2840 to 3390.*/
 
 SELECT
-  -- COUNT(DISTINCT atc.concept_id)
+  COUNT(DISTINCT atc.concept_id)
 	-- COUNT( DISTINCT to_char(atc.concept_id,'999999999') || to_char(ingredient.concept_id, '999999999') )
-	atc.concept_code AS atc_concept_code,
-	atc.concept_name AS atc_concept_name,
-	atc.concept_id AS atc_concept_id,
-	ingredient.concept_code AS ingredient_concept_code,
-	ingredient.concept_name AS ingredient_concept_name,
-	ingredient.concept_id  AS ingredient_concept_id,
-	ingredient.standard_concept,
-	relation.relationship_ids,
-	relation.n_relationships
+	-- atc.concept_code AS atc_concept_code,
+	-- atc.concept_name AS atc_concept_name,
+	-- atc.concept_id AS atc_concept_id,
+	-- ingredient.concept_code AS ingredient_concept_code,
+	-- ingredient.concept_name AS ingredient_concept_name,
+	-- ingredient.concept_id  AS ingredient_concept_id,
+	-- ingredient.standard_concept,
+	-- relation.relationship_ids,
+	-- relation.n_relationships
 -- INTO _atc_to_ingredient_direct_2
 FROM (
 	/* Select all unique relations */
