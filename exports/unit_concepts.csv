@@ -1,0 +1,16 @@
+concept_id,concept_name,concept_code,frequency
+9414,50% tissue culture infectious dose,[tcid_50],6
+45744815,bacteria,{bacteria},4
+45744810,bioequivalent allergenic unit,{BAU},4
+45744812,cells,{cells},2
+9693,index of reactivity,{ir},40
+8718,international unit,[iU],6
+45744814,limit of flocculation unit,{LFU},2
+9551,milliequivalent,10*-3.eq,222
+8576,milligram,mg,58393
+8587,milliliter,mL,26
+9573,millimole,mmol,17
+9367,minim (US),[min_us],2
+9379,plaque forming unit,[PFU],2
+45744816,protein nitrogen unit,{PNU},2
+8510,unit,[U],2854
