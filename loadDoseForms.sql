@@ -3,11 +3,13 @@
 
 -- First export unique dose forms
 COPY (
-   SELECT dosf_lt, COUNT(*) as auh_freq
+   SELECT dosf_lt,
+            STRING_AGG(TO_CHAR( vnr,'999999' ), ',' ) AS varenr,
+            COUNT(*) as auh_freq
    FROM auh_products
    GROUP BY dosf_lt
    ORDER BY COUNT(*) DESC
-) TO '/Users/Maxim/Documents/Drug_mapping_OHDSI/data_files/to_translate_dose_form.csv' WITH HEADER CSV;
+) TO '/Users/Maxim/Google Drive/Bedrijf/Projects/Janssen-OHDSI AUH/Execution/Drug_Mapping_Scripts/data_files/to_translate_dose_form.csv' WITH HEADER CSV;
 
 /* DO TRANSLATION IN GOOGLE SHEETS */
 
