@@ -1,12 +1,20 @@
 -- Number of atc codes missing
-select 'ATC missing', count(distinct vnr) from _varenr_to_ingredient where atccode is null;
+select 'ATC missing', count(distinct vnr), sum(frequency) as frequency
+from _varenr_to_ingredient
+where atccode is null;
 -- Number of ingredient concept ids missing (where atc code available)
-select 'RxNorm missing', count(distinct vnr) from _varenr_to_ingredient where atccode is not null and ingredient_concept_id is null;
+select 'RxNorm missing', count(distinct vnr), sum(frequency) as frequency
+from _varenr_to_ingredient
+where atccode is not null and ingredient_concept_id is null;
 -- Total number of mapped codes (succes).
-select 'Total succes', count(distinct vnr) from _varenr_to_ingredient where ingredient_concept_id is not null;
+select 'Total succes', count(distinct vnr), sum(frequency) as frequency
+from _varenr_to_ingredient
+where ingredient_concept_id is not null;
 -- Total number of varenr drugs
-select 'Total', count(*) from auh_frequencies;
+select 'Total', count(*), sum(frequency) as frequency
+from auh_frequencies;
 
+/*
 -- Atc codes missing based on frequency
 select sum(fr)
 from (
@@ -42,3 +50,4 @@ WHERE sum < 0.8 -- Cumulative frequency of varenr. Other 0.2 less interesting.
     AND atccode is null
     -- AND ingredient_concept_id is null
 ;
+*/
