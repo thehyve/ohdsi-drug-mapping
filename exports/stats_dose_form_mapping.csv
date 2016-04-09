@@ -1,0 +1,620 @@
+dosf_lt,auhcount,concept_name,omopcount
+tabletter,7306,Oral Tablet,25802
+filmovertrukne tabletter,5898,Oral Tablet,25802
+overtrukne tabletter,313,Oral Tablet,25802
+drageer,47,Oral Tablet,25802
+"injektionsvæske, opløsning",1734,Injectable Solution,16672
+"pulver og solvens til injektionsvæske, opløsning",426,Injectable Solution,16672
+oral opløsning,347,Oral Solution,13550
+"orale dråber, opløsning",44,Oral Solution,13550
+kapsler,505,Oral Capsule,9676
+"kapsler, bløde",154,Oral Capsule,9676
+,0,Extended Release Oral Tablet,7098
+,0,Topical Cream,4177
+,0,Extended Release Oral Capsule,4035
+oral suspension,177,Oral Suspension,3967
+,0,Syrup,3231
+"injektionsvæske, opløsning, fyldt injektionssprøjte",312,Prefilled Syringe,2995
+kutanopløsning,129,Topical Solution,2916
+,0,Topical Ointment,2656
+tyggetabletter,235,Chewable Tablet,2424
+,0,Topical Gel,2235
+"øjendråber, opløsning",255,Ophthalmic Solution,2157
+øjendråber,170,Ophthalmic Solution,2157
+"øjendråber, opløsning, enkeltdosisbeholder",47,Ophthalmic Solution,2157
+,0,Topical Lotion,1835
+"injektionsvæske, suspension",655,Injectable Suspension,1640
+intramammær suspension,59,Injectable Suspension,1640
+,0,Pack,1551
+,0,Topical Spray,1160
+,0,Rectal Suppository,1070
+injektionsvæske,1495,Injection,999
+"infusionsvæske, opløsning",521,Injection,999
+injektionssubstans,281,Injection,999
+"injektions-/infusionsvæske, opløsning",140,Injection,999
+"injektionsvæske, emulsion",73,Injection,999
+injektionsvæske (vaccine),65,Injection,999
+injektions-/infusionsvæske,45,Injection,999
+depotplastre,338,Transdermal Patch,988
+depottabletter,1400,Delayed Release Oral Tablet,940
+enterotabletter,607,Delayed Release Oral Tablet,940
+tabletter med modificeret udløsning,76,Delayed Release Oral Tablet,940
+,0,12 hour Extended Release Tablet,907
+sugetabletter,85,Oral Lozenge,888
+,0,Inhalant Solution,834
+,0,Medicated Shampoo,781
+,0,Medicated Liquid Soap,755
+,0,Medicated Pad,606
+"næsespray, opløsning",120,Nasal Spray,603
+næsespray,45,Nasal Spray,603
+,0,Elixir,592
+smeltetabletter,299,Disintegrating Oral Tablet,569
+dispergible tabletter,129,Disintegrating Oral Tablet,569
+opløselige tabletter,73,Disintegrating Oral Tablet,569
+"resoribletter, sublinguale",88,Sublingual Tablet,565
+,0,Extended Release Suspension,558
+"kapsler, hårde",1109,Delayed Release Oral Capsule,540
+"depotkapsler, hårde",370,Delayed Release Oral Capsule,540
+"enterokapsler, hårde",317,Delayed Release Oral Capsule,540
+depotkapsler,198,Delayed Release Oral Capsule,540
+"kapsler med modificeret udløsning, hårde",80,Delayed Release Oral Capsule,540
+enterokapsler,53,Delayed Release Oral Capsule,540
+,0,Otic Solution,539
+,0,Ophthalmic Ointment,507
+,0,Oral Gel,475
+,0,Topical Foam,445
+,0,12 hour Extended Release Capsule,412
+,0,24 Hour Extended Release Tablet,395
+,0,Topical Powder,392
+,0,Metered Dose Inhaler,378
+,0,Toothpaste,362
+,0,Mouthwash,360
+,0,24 Hour Extended Release Capsule,304
+,0,Nasal Solution,292
+"øjendråber, suspension",74,Ophthalmic Suspension,285
+,0,Prefilled Applicator,268
+,0,Vaginal Cream,257
+,0,Vaginal Suppository,241
+inhalationspulver,452,Inhalant Powder,238
+inhalationspulver i kapsler,79,Inhalant Powder,238
+"inhalationspulver, afdelt",50,Inhalant Powder,238
+,0,Mucous Membrane Topical Solution,231
+,0,Gas for Inhalation,231
+,0,Irrigation Solution,216
+,0,Rectal Cream,214
+,0,Dry Powder Inhaler,209
+oralt pulver,110,Oral Powder,207
+klysma,50,Enema,202
+,0,Medicated Bar Soap,192
+,0,Nasal Inhaler,191
+,0,Auto-Injector,177
+,0,Cartridge,176
+granulat,80,Oral Granules,162
+,0,Paste,154
+brusetabletter,148,Effervescent Oral Tablet,152
+,0,Vaginal Gel,145
+,0,Drug Implant,134
+,0,Mucosal Spray,132
+,0,24 Hour Transdermal Patch,127
+"injektionsvæske, opløsning, fyldt pen",112,Pen Injector,126
+,0,Oral Spray,126
+,0,Rectal Ointment,125
+,0,Topical Oil,121
+oral pasta,64,Oral Paste,105
+,0,Oral Strip,103
+,0,Otic Suspension,101
+,0,Ophthalmic Gel,93
+,0,Powder Spray,91
+,0,Biweekly Transdermal Patch,89
+medicinsk tyggegummi,139,Chewing Gum,88
+,0,Bar Soap,84
+,0,Vaginal Tablet,84
+,0,Rectal Gel,77
+,0,Oral Wafer,74
+,0,Intraperitoneal Solution,70
+,0,Ophthalmic Irrigation Solution,58
+,0,Weekly Transdermal Patch,55
+,0,Nasal Gel,54
+,0,Buccal Tablet,53
+,0,Oral Pellet,51
+,0,Oral Cream,46
+,0,Oral Foam,44
+,0,Rectal Foam,40
+,0,Nasal Inhalant,38
+,0,Douche,33
+,0,Rectal Solution,32
+,0,Vaginal Ring,29
+,0,Chewable Bar,28
+,0,Buccal Film,28
+,0,Sustained Release Buccal Tablet,26
+,0,72 Hour Transdermal Patch,26
+,0,Otic Ointment,21
+,0,Caplet,21
+,0,Rectal Suspension,21
+,0,16 Hour Transdermal Patch,20
+,0,Urethral Suppository,20
+"pulver til injektionsvæske, opløsning",210,Powder,19
+"pulver til infusionsvæske, opløsning",155,Powder,19
+"pulver til injektions- og infusionsvæske, opløsning",116,Powder,19
+"pulver og solvens til injektionsvæske, suspension",90,Powder,19
+"pulver til koncentrat til infusionsvæske, opløsning",53,Powder,19
+afdelte pulvere,51,Powder,19
+"pulver og solvens til infusionsvæske, opløsning",45,Powder,19
+"depotinjektionsvæske, pulver og solvens til suspension",43,Powder,19
+pulver,40,Powder,19
+,0,Intrathecal Suspension,19
+,0,Vaginal Ointment,18
+,0,Oral Ointment,16
+pulver til opløsning i drikkevand,70,Powder for Oral Solution,15
+pulver til oral opløsning,66,Powder for Oral Solution,15
+,0,Vaginal Foam,15
+,0,Granules for Oral Solution,15
+,0,Oral Crystals,14
+,0,Nasal Ointment,13
+peritonealdialysevæske,393,Solution,12
+"koncentrat til infusionsvæske, opløsning",370,Solution,12
+infusionsvæske,319,Solution,12
+"spot-on, opløsning",114,Solution,12
+opløsning til priktest (Soluprick),106,Solution,12
+opløsning,93,Solution,12
+skyllevæske,88,Solution,12
+infusionskoncentrat,84,Solution,12
+dråber,64,Solution,12
+,0,Jet Injector,11
+,0,Rectal Spray,11
+,0,Ophthalmic Cream,10
+,0,Intravenous Solution,9
+,0,Urethral Gel,9
+,0,Augmented Topical Lotion,9
+,0,Topical Suspension,9
+,0,Augmented Topical Cream,9
+"næsespray, suspension",75,Nasal Suspension,7
+,0,Beads,7
+,0,Augmented Topical Gel,7
+,0,Augmented Topical Ointment,7
+,0,Liquid,6
+,0,Topical Cake,6
+suppositorier,258,Suppository,5
+,0,Suspension,5
+,0,Injectable Foam,5
+,0,Medicated Tape,5
+,0,Patch,5
+,0,Capsule,5
+"inhalationsspray, suspension",96,Inhalant,4
+inhalationsaerosol,64,Inhalant,4
+inhalationsvæske,59,Inhalant,4
+,0,Oral Flakes,4
+,0,Pudding,4
+salve,335,Ointment,3
+liniment,114,Ointment,3
+"medicinsk gas, komprimeret",84,Gas,3
+,0,Liquid Cleanser,3
+,0,Nasal Cream,3
+,0,Rectal Powder,3
+,0,Oil,3
+,0,Disk,3
+,0,Tablet,3
+,0,Otic Cream,3
+,0,Granules for Oral Suspension,3
+,0,Powder for Nasal Solution,3
+,0,Lotion,2
+,0,Cement,2
+,0,Powder for Oral Suspension,2
+,518,,0
+creme,509,Cream,0
+mikstur,270,,0
+gel,187,Gel,0
+"infusionsvæske, emulsion",116,,0
+infusionssubstans,54,,0
+premix,44,,0
+lancet,41,,0
+pulver til oral suspension,40,,0
+medicinsk gas,40,,0
+implantat,39,,0
+shampoo,38,,0
+"lyofilisat og solvens til injektionsvæske, suspension",38,,0
+øjensalve,38,,0
+solvens til parenteral anvendelse,37,,0
+vagitorier,37,,0
+"injektionsvæske, suspension, fyldt injektionssprøjte",36,,0
+"peritonealdialysevæske, to-kammer system",35,,0
+intramammær salve,34,,0
+"pulver, opløseligt",34,,0
+opløsning til desinfektion,33,,0
+granulat til oral suspension,33,,0
+intrauterint pessar,33,,0
+"pour-on, opløsning",33,,0
+opløsning til priktest,33,,0
+pudder,33,,0
+"pulver og solvens til injektionsvæske, opløsning, fyldt injektionssprøjte",32,,0
+resoribletter,31,,0
+"inhalationspulver, hård kapsel",29,,0
+"injektions-/infusionsvæske, emulsion",29,,0
+"næsedråber, opløsning",28,,0
+"rektalvæske, opløsning",27,,0
+"pulver og solvens til injektions- og infusionsvæske, opløsning",27,,0
+injektionssubstans med albumin-diluent,27,,0
+premix til foderlægemiddel,27,,0
+væske til inhalationsdamp,26,,0
+granulat til mikstur,26,,0
+"inhalationsspray, opløsning",26,,0
+saft,26,,0
+injektionssubstans med glycerol-diluent,25,,0
+opløsning til priktest (Soluprick-SQ),25,,0
+frysetørret tablet,25,,0
+"pulver og solvens til depotinjektionsvæske, suspension",24,,0
+vaginaltabletter,24,,0
+"injektionsvæske, opløsning, cylinderampul",23,,0
+vaginalcreme,23,,0
+lyofilisat til suspension,23,,0
+"injektionsvæske, suspension, fyldt pen",22,,0
+"inhalationsvæske til nebulisator, opløsning",22,,0
+konc.t.inf.væsk.opl.,22,,0
+næsedråber,21,,0
+øredråber,21,,0
+opløsning til blodstabilisering,21,,0
+"depotinjektionsvæske, suspension",21,,0
+depottabletter (duretter),21,,0
+"kutanspray, opløsning",20,,0
+"rektalvæske, opløsning, enkeltdosisbeholder",20,,0
+injektions- og infusionssubstans,20,,0
+oral gel,20,,0
+spot-on,19,,0
+pasta,19,,0
+syrup,18,,0
+kutanemulsion,18,,0
+"uteritorier, tabletter",17,,0
+afdelte granulater,17,,0
+"injektionsvæske/konc. til infusionsvæske, opløsning",17,,0
+injektionssubstans med depot-diluent,17,,0
+fedtcreme,17,,0
+granulat til oral opløsning,17,,0
+"pulver, vandopløseligt",16,,0
+"pulver til oral opløsning, enkeltdosisbeholder",16,,0
+"pulver til injektionsvæske, suspension",16,,0
+opløsnings- og fortyndingsvæske,16,,0
+medicinsk plaster,16,,0
+"medicinsk gas, flydende",16,,0
+hæmodialysekoncentrat,15,,0
+imprægneret gaze,15,,0
+injektionssubstans + injektionsvæske (vaccine),15,,0
+"pulver til koncentrat til injektions- og infusionsvæske, opløsning",15,,0
+øjengel,15,,0
+vævsklæber,15,,0
+intramammarier,15,,0
+kontinuert intraruminalt indlæg,15,,0
+"inhalationsvæske til nebulisator, suspension",14,,0
+pulver til mikstur,14,,0
+uretralstift,14,,0
+"inhalationsvæske til nebulisator, opløsning, enkeltdosisbeholder",13,,0
+infusionsvæske i viaflexbeholder,13,,0
+bolus,13,,0
+injektionssubstans og solvens,13,,0
+"øredråber, suspension",13,,0
+"rektalvæske, suspension, enkeltdosisbeholder",12,,0
+injektionsvæske olieopløsning,12,,0
+periodevis intraruminalt indlæg,12,,0
+"pulver og solvens til injektionsvæske, suspension, fyldt injektionssprøjte",11,,0
+"injektions-/infusionsvæske, opløsning, flerdosisbeholder",11,,0
+vaginalindlæg,11,,0
+pulver til injektionsvæske,11,,0
+"pulver, uopløseligt",11,,0
+koncentrat til kutanopløsning,11,,0
+granulat til anvendelse i drikkevand,11,,0
+intrauterint indlæg,11,,0
+medicinsk neglelak,11,,0
+"pulver til oral suspension, enkeltdosisbeholder",11,,0
+rektalskum,10,,0
+"medicinsk gas, kryogen",10,,0
+uretral gel,10,,0
+"kutanspray, suspension",10,,0
+næsepudder,10,,0
+intramammær emulsion,10,,0
+vaginalgel,10,,0
+bukkaltabletter,10,,0
+opløsning til intraokulær anvendelse,10,,0
+"mundhulespray, opløsning",9,,0
+næseaerosol,9,,0
+pulver til brug i drikkevand eller spray,9,,0
+mundskyllevæske,9,,0
+hæmofiltreringsvæske,9,,0
+piller,9,,0
+injektionssubstans (aquagen-sq),9,,0
+solubletter,9,,0
+pulver til koncentrat til infusionsvæske,9,,0
+bukkalfilm,8,,0
+sprit,8,,0
+"granulat til orale dråber, opløsning",8,,0
+pulver til brug i drikkevand (vaccine),8,,0
+intraruminalt indlæg,8,,0
+"inhalationsvæske, opløsning",8,,0
+"hæmofiltreringsvæske, hæmodialysevæske til kontinuerlig hæmodialyse",8,,0
+enterogranulat,8,,0
+øjen- og øredråber,8,,0
+pulver til anvendelse i drikkevand,8,,0
+rektalcreme,8,,0
+"injektionsvæske, opløsning, flerdosispen",8,,0
+"pulver til implantation, suspension",8,,0
+"injektionsvæske, suspension, cylinderampul",8,,0
+"koncentrat og solvens til infusionsvæske, opløsning",8,,0
+gazebind,8,,0
+"pulver til oral suspension/rektalvæske, suspension",8,,0
+"øredråber, suspension og kutansuspension",7,,0
+gelatinesvamp,7,,0
+dentalsuspension,7,,0
+"injektionsvæske, opløsning, enkeltdosisbeholder, i.v.",7,,0
+knoglecement,7,,0
+dentalgel,7,,0
+kæde til implantation,7,,0
+rektalsalve,7,,0
+injektionspræparat,7,,0
+sublingualspray,7,,0
+plaster til provokationstest,7,,0
+"injektionsvæske, suspension, hætteglas",7,,0
+kutanpasta,7,,0
+opløsning til pensling,7,,0
+"pulver og solvens til koncentrat til infusionsvæske, opløsning",7,,0
+"mikstur, suspension",6,,0
+brusegranulat,6,,0
+stift,6,,0
+oral emulsion,6,,0
+gel til overfladeanalgesi,6,,0
+infusionsvæske i excel,6,,0
+Vævsklæbermatrix,6,,0
+"endotracheopulmonal instillationsvæske, suspension",6,,0
+"øjengel, enkeltdosisbeholder",6,,0
+inhalationsdamp,6,,0
+"mikstur, enkeltdosisbeholder",6,,0
+"koncentrat til injektions- og infusionsvæske, opløsning",6,,0
+depotøjendråber,6,,0
+"injektionsvæske, opløsning, i.v.",6,,0
+oral suspension til brug i drikkevand og koncentrat til spray suspension,6,,0
+oral suspension til brug i drikkevand,6,,0
+"injektionsvæske, suspension, i.m.",6,,0
+kutanspray,6,,0
+kutan væske,6,,0
+"øjendråber, enkeltdosisbeholder",6,,0
+opløsning til anvendelse i drikkevand,6,,0
+infusions-injektionssæt,6,,0
+vaginaltabletter og creme,6,,0
+rektalvæske,5,,0
+"øredråber, opløsning",5,,0
+"koncentrat til injektionsvæske, opløsning",5,,0
+kutanskum,5,,0
+medicinsk svamp,5,,0
+oral opløsning til brug i drikkevand,5,,0
+"depotgranulat, enkeltdosisbeholder",5,,0
+"inhalationsspray, emulsion",5,,0
+koncentrat til oral opløsning til brug i drikkevand,5,,0
+"injektionsvæske, opløsning, enkeltdosisbeholder",5,,0
+"depotgranulat til oral suspension, enkeltdosisbeholder",5,,0
+intramammær opløsning,5,,0
+"oralt pulver, enkeltdosisbeholder",5,,0
+"lyofilisat og solvens til injektionsvæske, opløsning, cylinderampul",5,,0
+øjenbadevand,5,,0
+filmovertrukne depottabletter,5,,0
+øjenlamel,5,,0
+"pulver og solvens til injektionsvæske, opløsning i fyldt pen",5,,0
+injektionssubstans (vaccine),4,,0
+depotresoribletter,4,,0
+spot-on opløsning,4,,0
+vaginalkapsler,4,,0
+"pulver til injektionsvæske, opløsning/suspension",4,,0
+"vaginalkapsler, bløde",4,,0
+enterodepottabletter,4,,0
+"injektionsvæske, suspension, enkeltdosisbeholder",4,,0
+"rektalvæske, suspension",4,,0
+"pulver og solvens til øjendråber, opløsning",4,,0
+sterilt vand,4,,0
+"pulver og solvens til næsedråber, suspension",4,,0
+næsesalve,4,,0
+injektionssubstans + solvens,4,,0
+inhalator,4,,0
+"kutanspray, pulver",4,,0
+suspension,4,,0
+kutansuspension,4,,0
+"mundhulevæske, opløsning",4,,0
+"oral suspension og rektalvæske, suspension",4,,0
+mundhulegel,4,,0
+koncentrat til oral opløsning,4,,0
+"koncentrat og solvens til injektionsvæske, opløsning",4,,0
+"pulver til opløsning, vaccine",4,,0
+gel til desinfektion,4,,0
+halsbånd,4,,0
+injektionsvæske (serum),4,,0
+uteritorier,4,,0
+depotgranulat,4,,0
+pour-on,4,,0
+"pulver, enkeltdosisbeholder",4,,0
+"injektionsvæske, opløsning, hætteglas",4,,0
+enterogranulat til oral suspension,4,,0
+"næsedråber, suspension",4,,0
+depotbolus,4,,0
+opløsning til fortynding,3,,0
+kapsler med modificeret udløsning,3,,0
+"pulver til infusionsvæske, suspension",3,,0
+"injektionsvæske, Alutard-sq",3,,0
+tandpasta,3,,0
+pulver til opløsning til nebulisator,3,,0
+solvens,3,,0
+"pulver til rektalvæske, suspension",3,,0
+lyofilisat og solvens til oral suspension,3,,0
+opløsning til anvendelse på huden,3,,0
+"koncentrat til infusionsvæske, emulsion",3,,0
+"infusionsvæske, hypertonisk",3,,0
+"koncentrat og solvens til injektionsvæske, suspension",3,,0
+"injektionsvæske, opløsning, fyldt injektionssprøjte, enkeltdosisbeholder, i.v.",3,,0
+imprægneret tråd,3,,0
+"lyofilisat til injektionsvæske, suspension",3,,0
+"lyofilisat og solvens til injektionsvæske, opløsning",3,,0
+koncentrat,3,,0
+intramammarier oliesuspension,3,,0
+"hæmodiafiltreringsvæske, opløsning",3,,0
+koncentrat til vaccination,3,,0
+hæmodialysesubstans,3,,0
+"lyofilisat til øjen- og næsedråber, suspension",3,,0
+øjen- og øresalve,3,,0
+pulver til blæreskyllevæske,3,,0
+"granulat til oral suspension, enkeltdosisbeholder",3,,0
+lyofilisat til anvendelse i drikkevand,3,,0
+pulver til opløsning til kutan og intrakavernal anvendelse,3,,0
+anæstesivæske,3,,0
+"pulver til oral opløsning, breve",3,,0
+tørstof,3,,0
+koncentrat til kutanvæske,3,,0
+pulver til infusionsvæske,3,,0
+orale dråber,3,,0
+"injektions-/infusions-/rektalvæske, opløsning",3,,0
+enteralgel,3,,0
+diverse former,3,,0
+pulver til koncentrat og opløsningsvæske til infusionsvæske,3,,0
+"injektionsvæske, i.m.",2,,0
+inhalationsgas,2,,0
+"enterodepotgranulat, breve",2,,0
+"injektionsvæske, suspension, flerdosispen",2,,0
+opløsning til priktest (Soluprick-SQU),2,,0
+"opløsning, vandig",2,,0
+granulat og solvens til oral suspension,2,,0
+"øjendråber, suspension, enkeltdosisbeholder",2,,0
+inhalationsspray,2,,0
+"injektionsvæske, opløsning, i.m.",2,,0
+oralt pulver i brev,2,,0
+pulver til nasal inhalation (kapsler),2,,0
+injektionssæt,2,,0
+"salve, steril",2,,0
+"koncentrat og solvens til injektionsvæske, susp.",2,,0
+infusions-/injektionssubstans,2,,0
+hæmodialysekoncentra,2,,0
+"resoribletter, slimhindeklæbende",2,,0
+pulver og solvens til intravesikal suspension,2,,0
+pulver til brug i drikkevand,2,,0
+kutanplaster,2,,0
+elektuarium,2,,0
+"implantat, fyldt injektionssprøjte",2,,0
+opløsning til vaccination,2,,0
+tab,2,,0
+"granulat, opløseligt",2,,0
+vandig opløsning,2,,0
+"koncentrat til badevand, suspension",2,,0
+"injektionssubstans, intramuskulær",2,,0
+"pulver og solvens til injektionsvæske, emulsion",2,,0
+tabletter og vaginaltabletter,2,,0
+pulver til instillationsvæske,2,,0
+pulver til suspension ventrikel,2,,0
+pulver og solvens til oral suspension,2,,0
+afdelte enterogranulater,2,,0
+opløsning til tandkød,2,,0
+pulver til suspension,2,,0
+"mikstur, sukkerfri",2,,0
+"infusionsvæske, isotonisk",2,,0
+koncentrat til oral suspension til anvendelse i foder,2,,0
+"øjen- og øredråber, suspension",2,,0
+pulver og gel til gel,2,,0
+instillationsvæske,2,,0
+"koncentrat til infusionsvæske, suspension",2,,0
+"pulver til implantation, opløsning",2,,0
+"instillationsvæske, suspension",2,,0
+"vaginalgel, enkeltdosisbeholder",2,,0
+cigaretter,2,,0
+"oral suspension, enkeltdosisbeholder",2,,0
+"ekstrakt, tør ublandet",2,,0
+"granulat, enkeltdosisbeholder",2,,0
+fortyndingsvæske,2,,0
+"vaginaltampon, medicinsk",1,,0
+intramammarier i engangssprøjter,1,,0
+tabletter IR (Immediate Release),1,,0
+"pulver og solvens til injektionsvæske, dispergering",1,,0
+vaselin,1,,0
+pulver til anvendelse i drikkevand/mælk,1,,0
+"suspension og emulsion til injektionsvæske, emulsion",1,,0
+"koncentrat til badevand, suspension og injektionsvæske, suspension",1,,0
+tinktur,1,,0
+"injektionsvæske, vaccine",1,,0
+"pulver til opløsning til intravesikal anvendelse og til injektionsvæske, opløsning",1,,0
+badevand,1,,0
+lotion,1,,0
+"orale dråber, emulsion",1,,0
+"injektionsvæske, opløsning, til subkutan injektion",1,,0
+transdermalt system,1,,0
+"pulver og solvens til tandkødsgel, fyldt injektionssprøjte",1,,0
+tyggegummi,1,,0
+"lyofilisat og solvens, suspension til nasal administration",1,,0
+vaginalskyllevæske,1,,0
+olie,1,,0
+opløsning til lokal anvendelse (tørstof),1,,0
+pasta til røntgenundersøgelse,1,,0
+dentalpasta,1,,0
+"solvens til parenteral anvendelse/injektionsvæske, opløsning",1,,0
+depotgranulat til oral suspension,1,,0
+"øjen- og øredråber, opløsning",1,,0
+inhalationsvæske (endosisbeholder),1,,0
+badeadditiv,1,,0
+"endocervikalgel, enkeltdosisbeholder",1,,0
+koncentrat til infusionsvæske,1,,0
+"infusionsvæske, opløsning og oral opløsning",1,,0
+mundhulepasta,1,,0
+"injektionsvæske, suspension (frossen)",1,,0
+hæmodialyse-/hæmofiltreringsvæske,1,,0
+pulver til opløsning til lokal anvendelse,1,,0
+katetercreme,1,,0
+gazetamponer,1,,0
+peritonaeldialysevæske,1,,0
+pulver til inhalationsvæske,1,,0
+"pulver og opløsning til injektionsvæske, opløsning",1,,0
+"lyofilisat og suspension til injektionsvæske, suspension",1,,0
+"pour-on, suspension",1,,0
+matrix til implantation,1,,0
+"lyofilisat og solvens til injektionsvæske, susp.",1,,0
+opløseligt pulver,1,,0
+dentalindlæg,1,,0
+"peritonealdialysevæske, opløsning",1,,0
+salvekompres,1,,0
+koncentrat til liniment,1,,0
+"lyofilisat til injektionsvæske, opløsning",1,,0
+"injektionssubstans, intravenøs",1,,0
+"pulver og suspension til injektionsvæske, suspension i fyldt injektionssprøjte",1,,0
+radiofarmaceutisk præparationssæt til infusion,1,,0
+intramammær oliesuspension,1,,0
+organopbevaringsvæske,1,,0
+"øjendråber, ukons.",1,,0
+"liniment, spritholdig",1,,0
+øregel,1,,0
+infusionsvæske (kombipakning),1,,0
+tabletter SR (Sustained Release),1,,0
+sprayopløsning,1,,0
+pasta/cement,1,,0
+"liniment, viskøs",1,,0
+"opløselige tabletter og pulver til oral opløsning, kombinationspakning",1,,0
+injektionsvæske til primær vaccination,1,,0
+pulver til øjendråber,1,,0
+oral suspension i brev,1,,0
+"koncentrat og solvens til koncentrat til infusionsvæske, opløsning",1,,0
+pulver og solvens til opløsning til intravesikal anvendelse,1,,0
+"sæbe, medicinsk",1,,0
+periodontalgel,1,,0
+øjen- og næsesalve,1,,0
+tandproteselak,1,,0
+øjendråber/øjensalve,1,,0
+pulver og solvens til opløsning til nebulisator,1,,0
+stave,1,,0
+sterilt tørstof,1,,0
+koncentrat til opløsning til behandling af fisk,1,,0
+"piller, overtrukne",1,,0
+infus,1,,0
+"oralt pulver, opløseligt",1,,0
+injektions- og infusionskoncentrat,1,,0
+pulver til vaskbehandling,1,,0
+"tabletter til rektalvæske, suspension",1,,0
+"gel, brev",1,,0
+fedtsalve,1,,0
+"injektionsvæske, opløsning, nålefri injektor",1,,0
+,0,Orderable Drug Form,0
+,0,Vaginal Powder,0
+,0,Solid,0
+,0,Vaginal Spray,0
+,0,Intramuscular Suspension,0
+,0,Bar,0
+,0,Intramuscular Solution,0
+,0,Spray,0
+,0,Foam,0
+,0,Intravenous Suspension,0

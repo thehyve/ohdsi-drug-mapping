@@ -12,5 +12,5 @@ CREATE TABLE IF NOT EXISTS _dose_form_mapping_manual (
 );
 
 COPY _dose_form_mapping_manual
-FROM '/Users/Maxim/Google Drive/Bedrijf/Projects/Janssen-OHDSI AUH/Execution/Drug_Mapping_Scripts/data_files/Mapping_dose_form_v0.2_enccopy.csv' WITH HEADER CSV
+FROM '/Users/Maxim/Google Drive/Bedrijf/Projects/Janssen-OHDSI AUH/Execution/Drug_Mapping_Scripts/mappings/Mapping_dose_form_v0.2_enccopy_2.csv' WITH HEADER CSV
 ;
