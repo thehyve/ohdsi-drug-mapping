@@ -10,6 +10,6 @@ The drug mapping scripts are executed with execute_drug_mapping.sh
  - Two csv datasets should be in the folder `input_datasets` and two manual mapping files in `manual_mappings`"
 
 
-Execute the drug mapping with the following commands:
+Execute the drug mapping with the following commands:  
 `chmod u+x execute_drug_mapping.sh`  
 `./execute_drug_mapping.sh <databasename>`  
