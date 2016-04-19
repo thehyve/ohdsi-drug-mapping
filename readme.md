@@ -1,14 +1,15 @@
-Please read me.
+Drug mapping
+============
 
-The drug mapping is executed with execute_drug_mapping.sh
+The drug mapping scripts are executed with execute_drug_mapping.sh
 
-Assumptions:
+### Dependencies:
  - psql installed
- - Initialized the vocabulary of the OMOP CDM v5.
- - No password on the database
- - Two csv datasets should be in the folder input_datasets and two manual mapping files in manual_mappings"
+ - Initialized the vocabulary of the `OMOP CDM v5`.
+ - No password on the local database
+ - Two csv datasets should be in the folder `input_datasets` and two manual mapping files in `manual_mappings`"
 
 
 Execute the drug mapping with the following commands:
-    chmod u+x execute_drug_mapping.sh
-    ./execute_drug_mapping.sh <databasename>
+`chmod u+x execute_drug_mapping.sh`  
+`./execute_drug_mapping.sh <databasename>`  
