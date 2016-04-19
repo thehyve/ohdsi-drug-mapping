@@ -10,7 +10,7 @@ SELECT v_t_i.vnr,
     -- '|' AS ma,
 
     pname,
-    auh_frequencies.frequency,
+    auh.frequencies.frequency,
     streng,
     -- strengToDecimal(streng),
     strnum,
@@ -29,18 +29,18 @@ SELECT v_t_i.vnr,
     -- dose_form.concept_name AS dose_form
 -- INTO _varenr_to_clinical_strength
 
-FROM auh_frequencies
+FROM auh.frequencies
 
-LEFT JOIN auh_products
-    ON auh_products.vnr = auh_frequencies.vnr
+LEFT JOIN auh.products
+    ON auh.products.vnr = auh.frequencies.vnr
 
-LEFT JOIN _varenr_to_ingredient AS v_t_i
-    ON auh_frequencies.vnr = v_t_i.vnr
+LEFT JOIN map.varenr_to_ingredient AS v_t_i
+    ON auh.frequencies.vnr = v_t_i.vnr
 
-LEFT JOIN _drug_strength_single_ingredient AS drug_strength
+LEFT JOIN map.drug_strength_single_ingredient AS drug_strength
     ON drug_strength.ingredient_concept_id = v_t_i.ingredient_concept_id
-    AND (drug_strength.amount_value = auh_products.strnum
-        OR drug_strength.numerator_value = auh_products.strnum)
+    AND (drug_strength.amount_value = auh.products.strnum
+        OR drug_strength.numerator_value = auh.products.strnum)
 
 LEFT JOIN concept drug
     ON drug.concept_id = drug_strength.drug_concept_id

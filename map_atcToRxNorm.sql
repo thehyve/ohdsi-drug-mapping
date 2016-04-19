@@ -17,7 +17,7 @@ SELECT
 	ingredient.concept_id  AS ingredient_concept_id,
 	ingredient.standard_concept,
 	relation.relationship_id
-INTO _atc_to_ingredient
+INTO map.atc_to_ingredient
 FROM concept_relationship AS relation
 
 INNER JOIN concept AS atc

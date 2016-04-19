@@ -1,4 +1,2 @@
-COPY
-_varenr_mapping
-TO '/Users/Maxim/Google Drive/Bedrijf/Projects/Janssen-OHDSI AUH/Execution/Drug_Mapping_Scripts/exports/complete_mapping.csv'
-WITH HEADER csv;
+-- 19-04-2016 use relative \copy
+\copy map.varenr_mapping TO 'exports/complete_mapping.csv' WITH HEADER csv

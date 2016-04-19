@@ -7,27 +7,27 @@ SELECT
     drug.concept_id AS drug_concept_id,
     drug.concept_class_id,
 
-    pname,
-    auh_frequencies.frequency,
-    auh_products.strnum,
-    auh_products.strunut,
-    auh_products.dosf_lt,
+    auh.products.pname,
+    auh.frequencies.frequency,
+    auh.products.strnum,
+    auh.products.strunut,
+    auh.products.dosf_lt,
 
     drug.concept_name
 
-INTO _varenr_to_drug_form
+INTO map.varenr_to_drug_form
 
-FROM auh_frequencies
+FROM auh.frequencies
 
-LEFT JOIN auh_products
-    ON auh_products.vnr = auh_frequencies.vnr
+LEFT JOIN auh.products
+    ON auh.products.vnr = auh.frequencies.vnr
 
 /* Hook mapping of ingredient, dose form,  to drugs */
-LEFT JOIN _varenr_to_ingredient AS v_t_i
-    ON auh_products.vnr = v_t_i.vnr
+LEFT JOIN map.varenr_to_ingredient AS v_t_i
+    ON auh.products.vnr = v_t_i.vnr
 
-LEFT JOIN auh_map_dose_form
-    ON auh_products.dosf_lt = auh_map_dose_form.dosf_lt
+LEFT JOIN auh.map_dose_form
+    ON auh.products.dosf_lt = auh.map_dose_form.dosf_lt
 
 /* Search all drugs which have this ingredient */
 LEFT JOIN concept_relationship AS relation_ing
@@ -47,7 +47,7 @@ LEFT JOIN concept dose_form
 
 WHERE (drug.concept_class_id LIKE 'Clinical Drug Form') -- Filter out o.a. branded
      -- Select correct dose form.
-     AND auh_map_dose_form.dose_concept_id = dose_form.concept_id
+     AND auh.map_dose_form.dose_concept_id = dose_form.concept_id
 
 ORDER BY v_t_i.vnr, drug.concept_class_id, drug.concept_name
 -- LIMIT 50

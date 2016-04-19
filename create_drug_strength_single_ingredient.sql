@@ -1,6 +1,6 @@
 
 SELECT drug_strength.*
-INTO _drug_strength_single_ingredient
+INTO map.drug_strength_single_ingredient
 FROM (
     SELECT drug_concept_id
     FROM drug_strength

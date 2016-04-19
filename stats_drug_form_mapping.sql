@@ -10,7 +10,7 @@
 -- ;
 --
 -- SELECT dosf_lt, COUNT(*)
--- FROM auh_products
+-- FROM auh.products
 -- GROUP BY dosf_lt
 -- ORDER BY COUNT(*) DESC
 -- limit 10
@@ -25,10 +25,10 @@ FROM (
             omop.concept_name,
             CASE WHEN omop.count IS NULL OR omop.count = 1 THEN 0 ELSE omop.count END
                 AS omopcount
-    FROM auh_map_dose_form d_f_m
+    FROM auh.map_dose_form d_f_m
     RIGHT JOIN (
         SELECT dosf_lt, COUNT(*)
-        FROM auh_products
+        FROM auh.products
         GROUP BY dosf_lt
     ) auh
         ON  auh.dosf_lt = d_f_m.dosf_lt
