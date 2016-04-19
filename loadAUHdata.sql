@@ -1,7 +1,7 @@
 /* Copy source data to sql table */
 
 /* "AUH Medication Varenr and frequencies.xlsx" */
-CREATE TABLE IF NOT EXISTS AUH_FREQUENCIES (
+CREATE TABLE IF NOT EXISTS auh_frequencies (
   vnr INTEGER PRIMARY KEY,
   frequency INTEGER,
   emptyone varchar(1), -- Excel exports some additional empty rows.
@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS AUH_FREQUENCIES (
 );
 
 /* "mapping ATC.csv" */
-CREATE TABLE IF NOT EXISTS AUH_PRODUCTS (
+CREATE TABLE IF NOT EXISTS auh_products (
     vnr INTEGER PRIMARY KEY,
     Pname VARCHAR(255),
     dosf_LT VARCHAR(255),
@@ -20,11 +20,12 @@ CREATE TABLE IF NOT EXISTS AUH_PRODUCTS (
     strnum DECIMAL,
     strunut VARCHAR(255),
     PACKSIZE VARCHAR(255),
-    ATC VARCHAR(9) -- 005-04-2016: no druglist to get to atc
+    ATC VARCHAR(9) -- 05-04-2016: no druglist needed anymore to get to atc
 );
 
+-- 19-04-2016 switched to relative \copy
+\COPY auh_frequencies
+FROM '/input_datasets/AUH Medication Varenr and frequencies.csv' WITH CSV HEADER;
 
-COPY AUH_FREQUENCIES FROM '/Users/Maxim/Google Drive/Bedrijf/Projects/Janssen-OHDSI AUH/Execution/Drug_Mapping_Scripts/data_files/AUH Medication Varenr and frequencies.csv'
-WITH CSV HEADER;
-COPY AUH_PRODUCTS FROM '/Users/Maxim/Google Drive/Bedrijf/Projects/Janssen-OHDSI AUH/Execution/Drug_Mapping_Scripts/data_files/Lars_01042016_mapping_ATC.csv'
-WITH CSV HEADER ENCODING 'windows-1252';
+\COPY auh_products
+FROM '/input_datsets/mapping_ATC.csv' WITH CSV HEADER ENCODING 'windows-1252';

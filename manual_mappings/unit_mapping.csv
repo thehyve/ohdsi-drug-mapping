@@ -1,0 +1,64 @@
+strunut,concept_id,concept_name,num_concept_id,denom_concept_id
+,,,,
+AUM,,,,
+BAB,,,,
+BHS,,,,
+EID,,,,
+EP,,,,
+EUM,8695,Ehrlich unit per milliliter,8480,8587
+G,8504,gram,8504,
+GDO,,,,
+GL,8636,gram per liter,8504,8519
+GML,9514,gram per milliliter,8504,8587
+HEP,,,,
+HT,,,,
+INS,,,,
+IU,8718,international unit,8718,
+IUD,,,8718,45744809
+IUG,9333,international unit per gram,8718,8504
+IUM,8985,international unit per milliliter,8718,8587
+KIM,9525,kilo-international unit per milliliter,8718,8587
+MEM,,,,
+MG,8576,milligram,8576,
+MGC,9564,milligram per cubic meter,8576,
+MGD,45890997,milligram per dose,8576,45744809
+MGF,45891022,milligram per 72 hours,8576,3302
+MGG,8723,milligram per gram,8576,8504
+MGH,8909,milligram per 24 hours,8576,8512
+MGK,45891036,milligram per square centimeter,8576,9483
+MGL,8751,milligram per liter,8576,8519
+MGM,8861,milligram per milliliter,8576,8587
+MGS,45891021,milligram per 16 hours,8576,3302
+MIL,9040,milli-international unit per liter,44777577,8519
+MIM,9550,milli-international unit per milliliter,44777577,8587
+MIU,44777577,milli-international unit,44777577,
+MJM,,,,
+ML,8587,milliliter,8587,
+MML,8753,millimole per liter,9573,8519
+MMO,9573,millimole,9573,
+MOM,45891014,millimole per milliliter,9573,8587
+PC,8554,percent,8554,
+PDO,,,,
+PER,8554,percent,8554,
+PFU,9379,plaque forming unit,9379,
+PPM,9387,parts per million,9387,
+PV,9234,volume percent,9234,
+PW,45891011,weight percent weight,45891011,
+RG,9655,microgram,9655,
+RGD,45890998,microgram per dose,9655,45744809
+RGG,8720,microgram per gram,9655,8504
+RGH,8906,microgram per 24 hours,9655,8512
+RGM,8859,microgram per milliliter,9655,8587
+RGT,44777645,microgram per hour,9655,8505
+RGV,,,,
+RLM,45891029,microliter per milliliter,9665,8587
+SQ,,,,
+SQM,,,,
+SQV,,,,
+ST,8576,milligram,8576,
+TCI,,,,
+UDO,,,,
+UML,8763,unit per milliliter,8510,8587
+UN,8510,unit,8510,
+WV,8523,ratio,8523,
+XAM,8985,international unit per milliliter,8718,8587

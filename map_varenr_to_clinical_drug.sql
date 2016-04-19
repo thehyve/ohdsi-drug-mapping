@@ -3,7 +3,7 @@
 SELECT
     -- count(*)
     v_t_i.vnr,
-    v_t_i.ingredient_concept_id AS ingredient,
+    -- v_t_i.ingredient_concept_id AS ingredient,
     drug.concept_id AS drug_concept_id,
     drug.concept_class_id,
 
@@ -26,11 +26,11 @@ LEFT JOIN auh_products
 LEFT JOIN _varenr_to_ingredient AS v_t_i
     ON auh_products.vnr = v_t_i.vnr
 
-LEFT JOIN _dose_form_mapping_manual
-    ON auh_products.dosf_lt = _dose_form_mapping_manual.dosf_lt
+LEFT JOIN auh_map_dose_form
+    ON auh_products.dosf_lt = auh_map_dose_form.dosf_lt
 
-LEFT JOIN _unit_mapping_manual
-    ON auh_products.strunut = _unit_mapping_manual.strunut
+LEFT JOIN auh_map_unit
+    ON auh_products.strunut = auh_map_unit.strunut
 
 LEFT JOIN _drug_strength_single_ingredient AS drug_strength
     ON drug_strength.ingredient_concept_id = v_t_i.ingredient_concept_id
@@ -38,13 +38,13 @@ LEFT JOIN _drug_strength_single_ingredient AS drug_strength
     AND (
         ( round(drug_strength.amount_value,2) =
           round(auh_products.strnum,2)
-            AND drug_strength.amount_unit_concept_id = _unit_mapping_manual.num_unit_concept_id
+            AND drug_strength.amount_unit_concept_id = auh_map_unit.num_unit_concept_id
         )
         OR
         ( round(drug_strength.numerator_value,2) =
           round(auh_products.strnum,2)
-            AND drug_strength.numerator_unit_concept_id  = _unit_mapping_manual.num_unit_concept_id
-            AND drug_strength.denominator_unit_concept_id = _unit_mapping_manual.denom_unit_concept_id
+            AND drug_strength.numerator_unit_concept_id  = auh_map_unit.num_unit_concept_id
+            AND drug_strength.denominator_unit_concept_id = auh_map_unit.denom_unit_concept_id
         )
     )
 
@@ -64,7 +64,7 @@ LEFT JOIN concept drug
 
 WHERE (drug.concept_class_id LIKE 'Clinical%' OR drug.concept_class_id IS Null) -- Filter out o.a. branded
      -- Select correct dose form.
-     AND _dose_form_mapping_manual.dose_concept_id = dose_form.concept_id
+     AND auh_map_dose_form.dose_concept_id = dose_form.concept_id
 
 ORDER BY v_t_i.vnr, drug.concept_class_id, drug.concept_name
 -- LIMIT 50

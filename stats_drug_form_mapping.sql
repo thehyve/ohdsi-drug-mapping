@@ -25,7 +25,7 @@ FROM (
             omop.concept_name,
             CASE WHEN omop.count IS NULL OR omop.count = 1 THEN 0 ELSE omop.count END
                 AS omopcount
-    FROM _dose_form_mapping_manual d_f_m
+    FROM auh_map_dose_form d_f_m
     RIGHT JOIN (
         SELECT dosf_lt, COUNT(*)
         FROM auh_products

@@ -1,9 +1,9 @@
-/* 05-04-2016
+/* 9-04-2016
    Mapping to clinical form */
 SELECT
     -- count(*)
     v_t_i.vnr,
-    v_t_i.ingredient_concept_id AS ingredient,
+    -- v_t_i.ingredient_concept_id AS ingredient,
     drug.concept_id AS drug_concept_id,
     drug.concept_class_id,
 
@@ -26,8 +26,8 @@ LEFT JOIN auh_products
 LEFT JOIN _varenr_to_ingredient AS v_t_i
     ON auh_products.vnr = v_t_i.vnr
 
-LEFT JOIN _dose_form_mapping_manual
-    ON auh_products.dosf_lt = _dose_form_mapping_manual.dosf_lt
+LEFT JOIN auh_map_dose_form
+    ON auh_products.dosf_lt = auh_map_dose_form.dosf_lt
 
 /* Search all drugs which have this ingredient */
 LEFT JOIN concept_relationship AS relation_ing
@@ -47,7 +47,7 @@ LEFT JOIN concept dose_form
 
 WHERE (drug.concept_class_id LIKE 'Clinical Drug Form') -- Filter out o.a. branded
      -- Select correct dose form.
-     AND _dose_form_mapping_manual.dose_concept_id = dose_form.concept_id
+     AND auh_map_dose_form.dose_concept_id = dose_form.concept_id
 
 ORDER BY v_t_i.vnr, drug.concept_class_id, drug.concept_name
 -- LIMIT 50

@@ -1,10 +1,9 @@
 SELECT
     auh_frequencies.vnr,
-    pname as "danish_name",
+    ATC as ATCcode,
+    pname,
     -- aktivesubstanser /* substring( aktivesubstanser from 0 for 40 )*/ as "active_substance",
     frequency,
-    -- auh_products.drugid,
-    ATC as ATCcode,
     ingredient_concept_code as RxNorm_id,
     ingredient_concept_id,
     a_t_i_d.ingredient_concept_name
