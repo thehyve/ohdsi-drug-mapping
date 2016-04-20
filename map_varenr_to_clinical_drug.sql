@@ -65,6 +65,7 @@ LEFT JOIN concept drug
 WHERE (drug.concept_class_id LIKE 'Clinical%' OR drug.concept_class_id IS Null) -- Filter out o.a. branded
      -- Select correct dose form.
      AND auh.map_dose_form.dose_concept_id = dose_form.concept_id
+     AND drug.vocabulary_id = 'RxNorm'  -- 20-04-2016
 
 ORDER BY v_t_i.vnr, drug.concept_class_id, drug.concept_name
 -- LIMIT 50

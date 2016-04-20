@@ -50,7 +50,8 @@ LEFT JOIN concept drug
     ON drug.concept_id = drug_strength.drug_concept_id
 
 
-WHERE (drug.concept_class_id LIKE 'Clinical Drug Comp') -- Filter out o.a. branded
+WHERE (drug.concept_class_id LIKE 'Clinical Drug Comp'
+       AND drug.vocabulary_id = 'RxNorm' ) -- 20-04-2016: vocabulary DPD also has Clinical drug comp.
 
 ORDER BY v_t_i.vnr, drug.concept_class_id, drug.concept_name
 -- LIMIT 50

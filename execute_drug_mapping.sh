@@ -3,11 +3,18 @@
 
 DATABASE_NAME="$1"
 
+if [$DATABASE_NAME = ""]; then
+    echo "Please input a database name: "
+    echo "./execute_drug_mapping.sh <database_name>"
+    exit 1
+fi
+
 echo "Starting the automatic drug mapping with Postgresql."
 echo "Using the database '$DATABASE_NAME', public schema."
 
 echo
 echo "Loading the auh source data and mappings..."
+psql $DATABASE_NAME -c "DROP SCHEMA IF EXISTS auh CASCADE;" # Remove schema auh and all tables in it
 psql $DATABASE_NAME -c "CREATE SCHEMA IF NOT EXISTS auh;"
 psql $DATABASE_NAME -f loadAUHdata.sql
 psql $DATABASE_NAME -f loadManualMappings.sql
@@ -15,6 +22,7 @@ psql $DATABASE_NAME -f loadManualMappings.sql
 echo
 echo "Creating mappings..."
 # Preparation for actual mappings. Important order
+psql $DATABASE_NAME -c "DROP SCHEMA IF EXISTS map CASCADE;" # Remove all existing map tables
 psql $DATABASE_NAME -c "CREATE SCHEMA IF NOT EXISTS map;"
 printf "ATC to RxNorm: "
 psql $DATABASE_NAME -f map_atcToRxNorm.sql

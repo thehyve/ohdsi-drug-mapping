@@ -4,10 +4,7 @@
 /* "AUH Medication Varenr and frequencies.xlsx" */
 CREATE TABLE IF NOT EXISTS auh.frequencies (
   vnr INTEGER PRIMARY KEY,
-  frequency INTEGER,
-  emptyone varchar(1), -- Excel exports some additional empty rows.
-  emptytwo varchar(1),
-  emptythree varchar(1)
+  frequency INTEGER
 );
 \copy auh.frequencies FROM 'input_datasets/AUH Medication Varenr and frequencies.csv' WITH CSV HEADER
 

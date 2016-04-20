@@ -21,3 +21,13 @@ CREATE TABLE IF NOT EXISTS auh.map_unit (
    denom_unit_concept_id integer
 );
 \copy auh.map_unit FROM 'manual_mappings/unit_mapping.csv' WITH HEADER CSV
+
+-- Manual additions
+CREATE TABLE IF NOT EXISTS auh.map_manual_drug (
+    vnr integer PRIMARY KEY,
+    pname_en VARCHAR(255),
+    concept_id integer,
+    concept_name VARCHAR(255),
+    concept_class VARCHAR(255)
+);
+\copy auh.map_manual_drug FROM 'manual_mappings/manual_drug_mapping.csv' WITH HEADER CSV
