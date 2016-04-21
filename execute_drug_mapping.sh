@@ -24,25 +24,27 @@ echo "Creating mappings..."
 # Preparation for actual mappings. Important order
 psql $DATABASE_NAME -c "DROP SCHEMA IF EXISTS map CASCADE;" # Remove all existing map tables
 psql $DATABASE_NAME -c "CREATE SCHEMA IF NOT EXISTS map;"
-printf "ATC to RxNorm: "
+printf "%-30s" "ATC to RxNorm: "
 psql $DATABASE_NAME -f map_atcToRxNorm.sql
-printf "Varenr to RxNorm: "
+printf "%-30s" "Varenr to RxNorm: "
 psql $DATABASE_NAME -f map_varenr_to_ingredient.sql
-printf "Single ingredient drugs: "
+printf "%-30s" "Single ingredient drugs: "
 psql $DATABASE_NAME -f create_drug_strength_single_ingredient.sql
 
 # Mappings to different levels. Order of execution not important
-printf "Varenr to Drug Component: "
+printf "%-30s" "Varenr to Drug Component: "
 psql $DATABASE_NAME -f map_varenr_to_component.sql
-printf "Varenr to Drug Form: "
+printf "%-30s" "Varenr to Drug Form: "
 psql $DATABASE_NAME -f map_varenr_to_drug_form.sql
-printf "Varenr to Clinical Drug: "
+printf "%-30s" "Varenr to Clinical Drug: "
 psql $DATABASE_NAME -f map_varenr_to_clinical_drug.sql
 
 echo
 echo "Combining mappings..."
-# Last step
-psql $DATABASE_NAME -f unify_vnr_mappings.sql
+# Combine all automated mappings
+psql $DATABASE_NAME -f map_unify_varenr_mappings.sql
+# Override drugs that are manually mapped
+psql $DATABASE_NAME -f combine_manual_and_automated_mapping.sql
 
 echo
 echo "Statistics:"

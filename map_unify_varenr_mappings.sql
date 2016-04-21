@@ -34,9 +34,10 @@ FROM (
             -- AS concept_class_id,
             auh.products.pname, frequency,
             auh.products.strnum,auh.products.strunut,
-            CASE WHEN ingredient_concept_id IS NULL
-            THEN auh.products.atc
-            ELSE auh.products.dosf_lt END,
+            auh.products.dosf_lt, -- 20-04-2016: always include dosf_lt
+            -- CASE WHEN ingredient_concept_id IS NULL
+            -- THEN auh.products.atc
+            -- ELSE auh.products.dosf_lt END,
             ingredient_concept_name
         FROM map.varenr_to_ingredient
         JOIN auh.products
