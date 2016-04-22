@@ -1,2 +1,2 @@
 -- 19-04-2016 use relative \copy
-\copy map.varenr_mapping TO 'exports/complete_mapping.csv' WITH HEADER csv
+\copy (SELECT * FROM map.varenr_mapping_curated ORDER BY frequency DESC) TO 'exports/complete_varenr_RxNorm_mapping.csv' WITH HEADER csv

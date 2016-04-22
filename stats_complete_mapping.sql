@@ -4,5 +4,5 @@ SELECT concept_class_id,
     -- Frequency is met dubbele tellingen voor drug component en drug form.
 FROM map.varenr_mapping_curated
 GROUP BY concept_class_id
--- ORDER BY concept_class_id÷
+-- ORDER BY concept_class_id
 ;
