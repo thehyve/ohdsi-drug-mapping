@@ -1,5 +1,5 @@
 #!/bin/bash
-#Wtf, je mag geen spaties rond '=' teken doen...
+#Note: no space around '=' signs
 
 DATABASE_NAME="$1"
 
